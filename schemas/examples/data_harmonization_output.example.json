@@ -1,0 +1,154 @@
+{
+  "harmonized_table": {
+    "schema_version": "1.0.0",
+    "row_count": 156,
+    "columns": [
+      {"name": "date", "type": "date", "null_count": 0},
+      {"name": "partner_name", "type": "string", "null_count": 0},
+      {"name": "package_partner_name", "type": "string", "null_count": 0},
+      {"name": "placement_partner_name", "type": "string", "null_count": 3},
+      {"name": "metric_name", "type": "string", "null_count": 0},
+      {"name": "metric_value", "type": "decimal", "null_count": 0},
+      {"name": "currency", "type": "string", "null_count": 104},
+      {"name": "source_system", "type": "string", "null_count": 0},
+      {"name": "source_location", "type": "string", "null_count": 0},
+      {"name": "source_record_id", "type": "string", "null_count": 0},
+      {"name": "ingested_at", "type": "timestamp", "null_count": 0}
+    ],
+    "data_location": "warehouse://harmonized.fact_partner_metrics_20260120",
+    "sample_rows": [
+      {
+        "date": "2026-01-15",
+        "partner_name": "PartnerA",
+        "package_partner_name": "Q1 Brand Campaign",
+        "placement_partner_name": "Homepage Banner 300x250",
+        "metric_name": "impressions",
+        "metric_value": 125000,
+        "currency": null,
+        "source_system": "google_sheets",
+        "source_location": "https://docs.google.com/spreadsheets/d/1ABC123/edit",
+        "source_record_id": "row_15",
+        "ingested_at": "2026-01-20T13:07:23Z"
+      },
+      {
+        "date": "2026-01-15",
+        "partner_name": "PartnerA",
+        "package_partner_name": "Q1 Brand Campaign",
+        "placement_partner_name": "Homepage Banner 300x250",
+        "metric_name": "spend",
+        "metric_value": 1250.00,
+        "currency": "USD",
+        "source_system": "google_sheets",
+        "source_location": "https://docs.google.com/spreadsheets/d/1ABC123/edit",
+        "source_record_id": "row_15",
+        "ingested_at": "2026-01-20T13:07:23Z"
+      }
+    ]
+  },
+  "schema_map": {
+    "partner": "PartnerA",
+    "source_system": "google_sheets",
+    "mappings": [
+      {
+        "raw_column": "Date",
+        "normalized_field": "date",
+        "transform_applied": "parse_date",
+        "transform_params": {"input_format": "MM/DD/YYYY", "output_format": "YYYY-MM-DD"},
+        "confidence": 0.95,
+        "notes": "Exact name match, standard US date format"
+      },
+      {
+        "raw_column": "Campaign Name",
+        "normalized_field": "package_partner_name",
+        "transform_applied": "rename",
+        "transform_params": {},
+        "confidence": 0.88,
+        "notes": "Semantic match: campaign → package"
+      },
+      {
+        "raw_column": "Placement",
+        "normalized_field": "placement_partner_name",
+        "transform_applied": "rename",
+        "transform_params": {},
+        "confidence": 0.92,
+        "notes": "Exact semantic match"
+      },
+      {
+        "raw_column": "Impressions",
+        "normalized_field": "metric_value",
+        "transform_applied": "unpivot",
+        "transform_params": {"metric_name": "impressions"},
+        "confidence": 0.95,
+        "notes": "Standard metric name"
+      },
+      {
+        "raw_column": "Clicks",
+        "normalized_field": "metric_value",
+        "transform_applied": "unpivot",
+        "transform_params": {"metric_name": "clicks"},
+        "confidence": 0.95,
+        "notes": "Standard metric name"
+      },
+      {
+        "raw_column": "Spend ($)",
+        "normalized_field": "metric_value",
+        "transform_applied": "unpivot",
+        "transform_params": {"metric_name": "spend", "currency": "USD"},
+        "confidence": 0.90,
+        "notes": "Currency inferred from column name suffix"
+      }
+    ],
+    "unmapped_columns": [
+      {
+        "raw_column": "Internal Notes",
+        "reason": "No semantic match to canonical schema",
+        "suggested_action": "Ignore - appears to be internal documentation"
+      }
+    ]
+  },
+  "run_log": {
+    "run_id": "dh-20260120-manual-001",
+    "schema_version": "1.0.0",
+    "started_at": "2026-01-20T13:05:12Z",
+    "completed_at": "2026-01-20T13:07:45Z",
+    "duration_seconds": 153,
+    "sources_processed": 3,
+    "records_read": 160,
+    "records_written": 156,
+    "records_excluded": 4,
+    "overall_confidence": 0.88,
+    "warnings": [
+      {
+        "code": "DH-003",
+        "message": "3 rows with spend metric defaulted currency to USD",
+        "severity": "warn",
+        "affected_rows": ["row_22", "row_23", "row_24"],
+        "auto_action_taken": "Set currency = 'USD'"
+      },
+      {
+        "code": "DH-005",
+        "message": "Partner 'PartnerC' not in known partners list",
+        "severity": "warn",
+        "affected_rows": "all rows from PartnerC source"
+      }
+    ],
+    "errors": [
+      {
+        "code": "DH-004",
+        "message": "4 duplicate rows detected and excluded",
+        "severity": "fail",
+        "affected_rows": ["row_45", "row_46", "row_89", "row_90"],
+        "auto_action_taken": "Excluded from output"
+      }
+    ],
+    "human_review_required": true,
+    "review_items": [
+      {
+        "review_id": "rev-20260120-001",
+        "trigger_reason": "unknown_partner",
+        "details": "PartnerC is not in the known partners list. Please verify this is a valid partner and add to the list if so.",
+        "reviewer_actions": ["add_to_known_partners", "reject_source", "review_later"]
+      }
+    ]
+  }
+}

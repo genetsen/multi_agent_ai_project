@@ -1,0 +1,4 @@
+{
+  "harmonized_table_ref": "bq://project.dataset.harmonized_fact",
+  "reference_media_plan_ref": "bq://project.dataset.media_plan_master"
+}

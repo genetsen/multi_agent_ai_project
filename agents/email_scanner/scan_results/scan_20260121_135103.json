@@ -1,0 +1,1596 @@
+{
+  "scan_metadata": {
+    "scan_time": "2026-01-21T13:51:12.316645",
+    "after": "2026/01/14",
+    "before": "2026/01/22",
+    "partner_filter": null,
+    "total_emails_scanned": 42,
+    "emails_after_filtering": 40,
+    "emails_with_data": 12
+  },
+  "data_emails": [
+    {
+      "id": "19bc75118a58702a",
+      "thread_id": "19a31dba99d374f8",
+      "from": "Brian Hutton <brian.hutton@disqo.com>",
+      "to": "Julia Weiss <julia.weiss@giantspoon.com>",
+      "subject": "Re: DISQO | MIQ - De Beers Q4 Campaign Post-KOC Technical Thread",
+      "date": "Fri, 16 Jan 2026 09:58:22 -0500",
+      "snippet": "Hi Julia - thank you for the additional context. We&#39;re working internally to shift things around next week to better accommodate the urgency of this request. We will be in touch next week when we",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc75118a58702a",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bc3ea8bb5cf577",
+      "thread_id": "19a31dba99d374f8",
+      "from": "Julia Weiss <julia.weiss@giantspoon.com>",
+      "to": "Brian Hutton <brian.hutton@disqo.com>",
+      "subject": "Re: DISQO | MIQ - De Beers Q4 Campaign Post-KOC Technical Thread",
+      "date": "Thu, 15 Jan 2026 18:07:48 -0500",
+      "snippet": "I didn&#39;t mention a date - they need by next Thurs (1/22)! On Thu, Jan 15, 2026 at 5:43 PM Julia Weiss &lt;julia.weiss@giantspoon.com&gt; wrote: Hey Brian, Jumping in with a request to expedite data",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc3ea8bb5cf577",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bc3d5b99587dfc",
+      "thread_id": "19a31dba99d374f8",
+      "from": "Julia Weiss <julia.weiss@giantspoon.com>",
+      "to": "Brian Hutton <brian.hutton@disqo.com>",
+      "subject": "Re: DISQO | MIQ - De Beers Q4 Campaign Post-KOC Technical Thread",
+      "date": "Thu, 15 Jan 2026 17:43:29 -0500",
+      "snippet": "Hey Brian, Jumping in with a request to expedite data specific to independent retailers and Signet. Would it be possible to get that cut sooner? For context, ADIF is under De Beers who shares a",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc3d5b99587dfc",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bc3749656f73f5",
+      "thread_id": "19bbce07994123a3",
+      "from": "\"Gewertz, Randi (RX-HBE)\" <Randi.Gewertz@rxglobal.com>",
+      "to": "Tess Vargas <tess.vargas@giantspoon.com>",
+      "subject": "RE: 2026: ADIF x JCK: Reporting Template Request",
+      "date": "Thu, 15 Jan 2026 20:59:10 +0000",
+      "snippet": "Hi all, Here is the first JCK News Daily of 2026 for De Beers- ADIF- Sponsorship. See attached. There also is the ad running in the Leaderboard promoting the JCK Podcast first episode of 2026 sponsored",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc3749656f73f5",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 5822,
+          "attachment_id": "ANGjdJ_e-It1kqBezEwMTCcZyPlFY9C2uGF-54a7JZsGe4qLJV4Ijwkm-5qKimMnHmXtv9P9KCDkD7hvhoaBwHj08dAFfw8pXyMKGM1WZP3FmxPdC1pfrjEndX3utRZJz9E5qXsDp_r3m4JCODZJGCA5veAjOpTakWJMJvxTUY1abgmZ93rz6clQlYVCiDmvaFA-Gdr8QBc4X1BYAoEbKKz8NlepsvZT4rNZjDNvBu9oQPXgOrFFB8xWobajxbZBMHDI2ZhVmyeR31FSdWn0_jvXEVOSWbgQfu-udsP7BAp7hH8t82ytq-hFrq-GDQ-y8xvsfQaDOBqKFKMRaqdgwTJWbDuOLa0pR9CppNI_nzBRvY9hgg1LYcQw5-ARAVaJI8rhLD9o-vHHML4S5Q14",
+          "is_data_file": false
+        },
+        {
+          "filename": "“Massive” 41.82 Ct. Blue Diamond Found in South Africa.eml",
+          "mime_type": "message/rfc822",
+          "size": 166317,
+          "attachment_id": "ANGjdJ_dBW_Dz412eBYG7cY_v_us_-h6SpFAv1Iefkdw9DdNMmDrQUc-06PUVsEsW_QwYX16pu_DEtn6cuUfFKE2hoL7s-HmlviY_nh0cMqKZAL5GVoTX9TV7eOrjXKUYqig-33cSijzjD-U9bul0Uf1cf_ITsHaTGoTqS-G-Nwj6dehHxZL_41UAIywmPl1VzJDmtIHh2QBz2N1LX5QjC8Q38PBLMLe2oqtU3PPGOcl89vIDAUQI76FDmmH79AaAna9hXfaWL3cyQfdYUTxG5f4AJyvJ_RyzleEWacjKDmJ2F201wkO6Cwont93W3UpHUce9tvNPoUWTd8xItnvaqnqG4nxTDoTwhh2aFFLdFtlnY7iFoxCLPZNckWAe9g",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1XSo_BEaoZyQM1Mxnr3gh94M3l02ebVlAl9MPb-AsJ_8"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbe5c41e685a1d",
+      "thread_id": "19a31dba99d374f8",
+      "from": "Brian Hutton <brian.hutton@disqo.com>",
+      "to": "Matt Schroeder <matt.schroeder@giantspoon.com>",
+      "subject": "Re: DISQO | MIQ - De Beers Q4 Campaign Post-KOC Technical Thread",
+      "date": "Wed, 14 Jan 2026 16:13:00 -0500",
+      "snippet": "Thanks Matt - we&#39;re currently waiting for our data processing team to work through calculating results which limits our ability for a pre-read but it&#39;s a helpful option to have available. I",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbe5c41e685a1d",
+      "attachments": [
+        {
+          "filename": "image.png",
+          "mime_type": "image/png",
+          "size": 21493,
+          "attachment_id": "ANGjdJ9CKKKFcEPzG6e6MlS8mpZ-3Vuho6JkN-_gd5ujaHIMfmvKcWmssBnFimGow5uijRK0yTC1ZQMg4NDGg0WuVugsePjCB8NN2fd14vvxQGaFxgfQFSakXOWtVbLYZ7aTfH8HfWaW90LCm8SgywBkZkft-YVGkw_r8aGaMlR21yZb_sen0Na1AKLFc43zBw1XdzAfYUaH9eY8qW4EaB99hq-zIQu125_CtHuBiIUS-m7k3Qcx6blP8F6A8zLLHwUV4fj7KxajKsyLmIlkQEnbBOTYngWNA5WLONoRQh-OIzcPjopwKKsU4Bh4QVrheuWiFoaos0SGal63TJvYxnHY9GWaXFQIOlaE7Fg7vvw363sbGjCwT0xwMBnJHGveejHFFJ9cWkIxYxkMH9ogyJBUmcgfnBsNhcwv-Ep_VQ",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbe28185275d4f",
+      "thread_id": "19bbce07994123a3",
+      "from": "Tess Vargas <tess.vargas@giantspoon.com>",
+      "to": "\"Gewertz, Randi (RX-HBE)\" <Randi.Gewertz@rxglobal.com>",
+      "subject": "Re: 2026: ADIF x JCK: Reporting Template Request",
+      "date": "Wed, 14 Jan 2026 14:17:24 -0600",
+      "snippet": "Thanks Randi! Excited to see this sponsorship launch! On Wed, Jan 14, 2026 at 1:39 PM Gewertz, Randi (RX-HBE) &lt;Randi.Gewertz@rxglobal.com&gt; wrote: Hi all, Here is Part 2 of 2 in today&#39;s JCK",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbe28185275d4f",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 5822,
+          "attachment_id": "ANGjdJ9ioV0J7YwxMeJE0B1-YGaWJUV5zan8fj6PkZwzESLRVY-6u8JfTBNNAkRFWEWeq5PL9LPS0ksIyi8iyssi5aUPAVdPGqQ6t6DgbirocDAC3KUcZsrB5Te8wl76-RMuA-5EMNXdPueR5qkveAYx2r6tkpAgH7L52tCBJ8Q_WJB51OaUeWNAUkadf6uDJtP9zxKGcmnuwiJNks_hrc1dsZtNuvCVra2dZ0tUtzn0xVOhC7nEjDJhbNsyySRGiqotK-V4uIxdbf-ic7f1qND4y7gsBaCNtixQBeksAaPzQWJYCBRKzXktwYzJiQ2qNrchvMddL1zfmwTymOdj7-Abugu_BCp91eVVDLpgs9OdeDRRaRDea_f3f1y7_vp3a5SfWZc-qyp3fqvOji_C",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1XSo_BEaoZyQM1Mxnr3gh94M3l02ebVlAl9MPb-AsJ_8"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbe0564187504c",
+      "thread_id": "19bbce07994123a3",
+      "from": "\"Gewertz, Randi (RX-HBE)\" <Randi.Gewertz@rxglobal.com>",
+      "to": "Tess Vargas <tess.vargas@giantspoon.com>",
+      "subject": "2026: ADIF x JCK: Reporting Template Request",
+      "date": "Wed, 14 Jan 2026 19:39:36 +0000",
+      "snippet": "Hi all, Here is Part 2 of 2 in today&#39;s JCK News Daily- Lead article for the new episode of the JCK Podcast sponsored by Desert Diamonds. Best, Randi From: Gewertz, Randi (RX-HBE) Sent: Wednesday,",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbe0564187504c",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 5822,
+          "attachment_id": "ANGjdJ_ayp9vQ23G739qulO-irggF4hBxG6TZd9v7NpnSf98Wa9sBr73aLx8cW4rBZ_DRJKBsuSExB5XNUuXi8GXkl37L0CVu-Ur73nV9r5kJmc8hNPy4wA_8r_vawNUxPhkZiyj9mDDj94tTLtVP4YjqmbvE5mnM-xN6YOqk-jRPBxSWncvTDIBKKrcNfT9CtPMR33aH7dNxAr27Rd8hUSvgmAkepR1V60CBNP2sN2SxDCVHSgc3el88_Gorcoz8nk8R3iWkswtsCyVNYzZLqpqGHWDqkrk6IDUFyYZT89DpFsjb-QUA_LGR1Zqo-dOn9d-FnuY2iJmdKsTlXLL2rGCOZ-tceRzf8y3SapQwok2ZU_bE1m9KmG1CdYZ7ya15Zza5FUayHyl1Sy3HCDD",
+          "is_data_file": false
+        },
+        {
+          "filename": "The Jewelry District: 2026 Predictions.eml",
+          "mime_type": "message/rfc822",
+          "size": 179053,
+          "attachment_id": "ANGjdJ8PM6-zUKJUw04OCVHRNfe0Z8xwFzY9WlVQyuqw8fXcrmlF3jIbvsypoZqApK9sWfgPw3nY4UEooMoW9vdGEVV67AN-tcSKCrOXI5aO9CzP3YtCS0S7CCHKECTJF1egUp9c6OCHtxmUZkD5S-2unMTMH7bQK2vQ3L7oBQqjXKRpZddkOorKKAIAohJQ7ooN49fEQhZy2Z3dT2qHPPFporCw6Eci6Jbv4r5JerSlf6GvAYE1it0bw0AI92xYipmaFG1_yu4nOgr38ogjlDJxnjTNwVznFSZCfJ72shrRh8IByYCdQuKKWxaT4EgZpZ5C46tGux_XF-57zdmhmyN94264l9FbqXfJdXRjGi3aAfFFU9JxDrtKGUaAAks",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1XSo_BEaoZyQM1Mxnr3gh94M3l02ebVlAl9MPb-AsJ_8"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbe03e543378ff",
+      "thread_id": "19bbce07994123a3",
+      "from": "\"Gewertz, Randi (RX-HBE)\" <Randi.Gewertz@rxglobal.com>",
+      "to": "Tess Vargas <tess.vargas@giantspoon.com>",
+      "subject": "2026: ADIF x JCK: Reporting Template Request",
+      "date": "Wed, 14 Jan 2026 19:37:59 +0000",
+      "snippet": "Hi all, Here is Part 2 of 2 in today&#39;s JCK News Daily- Lead article for the new episode of the JCK Podcast sponsored by Desert Diamonds. From: Gewertz, Randi (RX-HBE) Sent: Wednesday, January 14,",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbe03e543378ff",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 5822,
+          "attachment_id": "ANGjdJ9VgvH7b5aoFzgI6HRhjuPTIUlxJUuix8cVIkmCWU4H1g3v7kWVMfXI1ClgTpvwTG_sDM7sFhU7p13NsjcO7S6m-zlII4j49NVi5k3cUGn5rbbz6aGhEkxvIx_gg3RLl0KbSEp6tNXYxVQsmN1W0aQPDJARjS9G5REFfzgWJKqZlgXeu3oek48npGU5n6naG--XhUSui7e6xxmpBVHZIizeEbZ2iJ1D9kbMCNz-ZsuqbxdoU-nyFZI9otMUTCbDWKHpQKs1dVPFoIyqN_Do7ll-yHKJiUDclrBFA-vwS-x4BLO8XrOa9ZyAAFLbx0EY_jnBWWhdrha9IQOdggknXZv8_v0AFhc0kjnouwnq33k6E8Nn325Lf7ovNPV2-9MvSZqEUIK3zu4VYef_",
+          "is_data_file": false
+        },
+        {
+          "filename": "The Jewelry District: 2026 Predictions.eml",
+          "mime_type": "message/rfc822",
+          "size": 179053,
+          "attachment_id": "ANGjdJ_uUMvkbTP2xmyv8KSZ4D6TQffMZWtyKkiSyyKxOR0epVwVq0A8reFPjzjq3RNPlnD98Y8bGXyFxv0oy8P6fhqW0QGU1nj9J-kuILcE81t3ch-EppXqsw7If4YggOPhyO-LqNWJ6uVFSPg7npTjuFB8ZnuFdQPKfmlBVjlufHuYYsZMDBalE_-vPF5lRY_f1qQaEjKw4uTnW855VtnamNXGg-FdOct41KL6YDbHMFH8XGo4rg_0ioNAIf8EcS_4RL-MDcAiXccJXPI3F-IQWH7MUpeuDBdbqkFmwtgGl_C8e69GBL-D0LkdlZm8a_MdPwOXGGDsgK3R6Ng2K9C4HyfEZ-ipgJpTdKoY6uThiN48Qsv7z--IzrCgGT4",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1XSo_BEaoZyQM1Mxnr3gh94M3l02ebVlAl9MPb-AsJ_8"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbd95428dee39f",
+      "thread_id": "19a31dba99d374f8",
+      "from": "Matt Schroeder <matt.schroeder@giantspoon.com>",
+      "to": "Brian Hutton <brian.hutton@disqo.com>",
+      "subject": "Re: DISQO | MIQ - De Beers Q4 Campaign Post-KOC Technical Thread",
+      "date": "Wed, 14 Jan 2026 09:36:55 -0800",
+      "snippet": "Thanks Brian. We are OK to receive the data piecemeal as it becomes available if that speeds anything up. The sooner we can dive in the better off we&#39;ll be for our meeting. Is that possible? We",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbd95428dee39f",
+      "attachments": [
+        {
+          "filename": "image.png",
+          "mime_type": "image/png",
+          "size": 21493,
+          "attachment_id": "ANGjdJ_ewTtK40l2lU1v7O2aFcxNEMjeISB--B6r3wfNpmZXGFBwt_Xy5Z9GW3dpKUoi8Zd3_Kckfr3-XS4p8n8ZRCwS9w_crKh3VAQNAx8DURvJIYQgbUPfZCTuh3eWozx06y03QWNb7qFTHl9FCMuXw8CvBOCjNqxTZYqF4Sp7FAlB0NRokIsdTMWAVifGM2kkZ-fqT0Xo0VMwZH693241QcKOBEOVviIueEbAlz7GKoJKW3Ty55sEoP-c8pZcnBSYCJWV1TxQ79VsngZPe5Ib_jKjTcbsHnIIH_KjbEWhcOcehmO3h7dOvLGO9vOJuoPt5pHn0wwlqxIKXY7Q3yBd6juT3-ntvvw60x5eFcjiAP2ZzlU8OGGmKcXWK88SmhhXJEWHmpWcH-gtxhs2pJQ_tzHOsbmgG5uPEe1kLQ",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbd18d3da9f2bc",
+      "thread_id": "19a12f17f9e279a2",
+      "from": "Jenn Leonard <jenn.leonard@giantspoon.com>",
+      "to": "Aubrey Gooch <Aubrey.Gooch@ncm.com>",
+      "subject": "Re: RFP - GS x NCM",
+      "date": "Wed, 14 Jan 2026 10:21:02 -0500",
+      "snippet": "Great, thank you! On Wed, Jan 14, 2026 at 10:08 AM Aubrey Gooch &lt;Aubrey.Gooch@ncm.com&gt; wrote: Hey Jenn, Yes we will, we don&#39;t have it just yet but I&#39;ll send it as soon as I can! Best,",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbd18d3da9f2bc",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 12464,
+          "attachment_id": "ANGjdJ-wWDJNEtYXaLCJmHS-JfPLF2DCfeMYPL10kG9etaF0fwXMbTv3i0OY8snFwhgmZ67lNrbZ6atmtTzV-dCi6oe_QUePLAxcWQ2exKKQrewTVxrrfVx0HLJf9Snqe_qwEh_wgMujR9QvDHrqmzbu5zJS2X_0gSHEgGUigO59K5hsPWP57oTJtVGJ8eK91-UxaeOxaBJ2ej2mPRCltwSqjVKBq0_Tl9BQQVzStuMLarCQCp6hRqJ7Z0_p1vJVDRAyC6rIXMp_Nb4u8qM4_iQQ5qwRw-s2tdGnGU4yfKXZ-B6CueiEQvyOxRKC69Hwu2bX6MIq9lMYslb_GOS4mBDBpsyzfsAQHva5qMq8DcDRNb5aP7Sg8ZIDNHvyrYn7NsuHW5qnChH4Zy5xICH4B7Nq-Y6Z_uSBcVtUI5z0cA",
+          "is_data_file": false
+        },
+        {
+          "filename": "image002.png",
+          "mime_type": "image/png",
+          "size": 13365,
+          "attachment_id": "ANGjdJ9a3Rv1IL5U0KUuzV99146a4TXDXLvgrfIOxezKkgTo9Ex_W0hpS-dW8pbe-5ACsKjo9PltwyVqqTzXasSVPgZkTgPaBSM4JWxw_SF4yF8i7usylaQ3zMZ6BQZBCZspkWDo8RGXkDUKkF9i5hdFraNPP3aVepDh5EjA_6RiJfwR50FBRGinEUPJgrc8AtFh3PHxJBJ66-SIiVxrkqe2NcbgD8RvYeW-4YM_axw1yd0UGNNkSlK_kZvQmtqA2vqDcM6O2cNOquLntnacn5etvEau0SK04kQA5t0fsiXZNAvdcvZ3WMO4In36j2t3qBumOzP9kAFK33VbuY2ilGwyQ-v57_it3Y2hGid477CrsgDAzarhSz6ObtxBNyOqAkzDxOVLAPgKfjuO9QuJjUhvqj6Pg8M7RHSczl6F0Q",
+          "is_data_file": false
+        },
+        {
+          "filename": "image003.png",
+          "mime_type": "image/png",
+          "size": 241567,
+          "attachment_id": "ANGjdJ8fgsxet2gYnGumB9sQnyaedVTVtGTh_3O13tbWd19-YMOsofeWlwqH0dUPwS4meZzJXCiDCz4xtLqUEmAnjzSqBjnnvAtUCCceFEQIYFRQgwsNOPDbI2RkBG9VZXGBoNVIEM4rTz-oNPLyfW0HShApYOrR4Y1DXJqN83RElICkTNUWkedjIB2XWvdlnsJ4kqBAQG5_LKzDzqd7E5gLFzSEQNQE0m-qjBADqr4euhq0opsH0r84Fi8rTbERacJApdFHvrwyyRijbXdd2VX9-k257Unfijm7nk1mV_2Ga5OEYnSZJp57L7QqFbFtM4Y4ael560K32ldExbFWpDUbnFl3VJ9pTmA9AHSky-3KanMNo5VRy0Bl56eFXjZ_XEzXMyJqIDNfx9y2FOVa4_FhHWZsPdbJym2Vkf9RSA",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1hk9bE3zkswGSSI__76NdR4YRvwuDZXX-Ex41f4iTjnU"
+        },
+        {
+          "type": "box",
+          "match": "box.com/s/a6tc0klrjksgbz14w5exs8good0pnnsm"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbd0d88e3514d6",
+      "thread_id": "19a12f17f9e279a2",
+      "from": "Aubrey Gooch <Aubrey.Gooch@ncm.com>",
+      "to": "Jenn Leonard <jenn.leonard@giantspoon.com>",
+      "subject": "RE: RFP - GS x NCM",
+      "date": "Wed, 14 Jan 2026 15:08:54 +0000",
+      "snippet": "Hey Jenn, Yes we will, we don&#39;t have it just yet but I&#39;ll send it as soon as I can! Best, Aubrey Aubrey Gooch Senior Account Director 485 Lexington Ave New York, NY 10017 C 202-445-9531 ncm.com",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbd0d88e3514d6",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 12464,
+          "attachment_id": "ANGjdJ-wgTkdFlMP09AxMozKl1MuyA3-eM8C7ToUsph2B1EtM5fIbgRfOOGhSk0I-POTc_nrfT-CSBijh2eI6jb0C54F5nGFYBoQwVHSigXyLLCAQDUFsS45TdpAD3FG6PODyk9WSkXdy-QIy7V9jv2Wp_TRTzedR9DVX08sGLPRSAwnIOrpGbN9R_dYDs-GFuo0n02yurVAw7TUycd7SO1OWg_3sV6pPzCVWzPfsn8NxxQwfr4xMN8nwe-DHX2rEIYfByf8qqUWrNr6QhPKDIpBcErXsiEUm1rgJLMWS4zjXPivVlM0q8ZYI-X6RRZjPqg6qd9xkW6auAYuL1zPuZii2e7z4V7Xo0GSsXHa3YIAJKc0BcCL1dMSyDEo8DD9IyGqbYB5eT_HzVZgAaHlNfDn4Z_NkkxqcQkkZWeNcQ",
+          "is_data_file": false
+        },
+        {
+          "filename": "image002.png",
+          "mime_type": "image/png",
+          "size": 13365,
+          "attachment_id": "ANGjdJ9iNvnRVmTlQem3dVW9i5fvqF2FS3WIKbC2wykOdRcDdgR7os6VHTM_zqrfFHLc8cbVCLXEwR_ZiUw5uUmwZPUaMkwM7bLK32LmS4Kje9Ad2q8UTdRrNPG7zQfQJZamh1JlckTaSEx6Q1GCadbtjGte3rYhnmDJsRmoKxbIzxVt1uNBVNTDh-vp8DjG2C3JJmyaYktumhMyiJ84lhz_PacOg_KEJrSNpJG_5mk3htmjV_X1QX0KhBTpUbTVJSZ3SF2ve19oLxDa_EouUOEVsVmmxpqy_fU2x8LfqdSxu5GrzMQT_M91eRIvU9cMMvZ1sAUnYl_RtFCpbusHDi8obM0OY588g97laKo0Ht32sXAXW87QRUNchpUrhB4aPsFQ2lbmPW8L4gqnYiw18y_G7qzqqZv5a_9ORS13fQ",
+          "is_data_file": false
+        },
+        {
+          "filename": "image003.png",
+          "mime_type": "image/png",
+          "size": 241567,
+          "attachment_id": "ANGjdJ_8Y06R2bh9TDPo3Mv_v4n8DS59PzkjCII-C34_eOkCptEqHEcxubrzodFcHhTcJ9IUyS2l-v_1xG_SJRp1u4qFs1gsWIroEAxe2sL4cyz-6T-twPYDlr6Ltdftkxj-9l-b-ZkYoas_mRk_v7G-W13QMBRZGlgH0S31I3Nbztv0eIOG38lVuyS4PNfyzpauVe9ienXMG5Yh3HpKEoIjt5Gv44Hi7fgZ9kmoiQl-oCV7oDI7sGG3IxCRwjha3jotHoLtpKkuXOif79YjziLkZGmGjUjAHQ1X98E-rcGq0PzjbYX9ByCpzg-8Eei-ZTp7kUtm4_wzKKWhz0dMH2vna33afdaHbgcTzlcfVq0DSYDIoz8ILGYW7o2EYSKXZwd4vTxD4L62dIMypwBBgSqtGoQj3wbWEpII-u0ylw",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1hk9bE3zkswGSSI__76NdR4YRvwuDZXX-Ex41f4iTjnU"
+        },
+        {
+          "type": "box",
+          "match": "box.com/s/a6tc0klrjksgbz14w5exs8good0pnnsm"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbce07994123a3",
+      "thread_id": "19bbce07994123a3",
+      "from": "\"Gewertz, Randi (RX-HBE)\" <Randi.Gewertz@rxglobal.com>",
+      "to": "Tess Vargas <tess.vargas@giantspoon.com>",
+      "subject": "2026: ADIF x JCK: Reporting Template Request",
+      "date": "Wed, 14 Jan 2026 14:19:41 +0000",
+      "snippet": "Morning all, Here is the first JCK Podcast of the year sponsored by Desert Diamonds. This is 1 of 2 emails sent out today. This eblast is sent first today- see attached- and the 2 nd will occur as the",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbce07994123a3",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 5822,
+          "attachment_id": "ANGjdJ8yNq2py2I0WhGuEvuT_Ls4Cj_CB831quyBQFKhzliUJJ1S4g7lVirXjp0ycgKHRVEbNGOU4bpmHKRCRh5_1FZvuyGwIpEEDWUaVImmDlK9iIugb_7bTcu39is2vbVxUTm5DWjd2_F1XSVM1tVVwMd_jNY-aiDijKZsM4f5HmWN2hcDofHzfbUHSSm-FGf_BThlJzGqN5HgDoEfqZJWUmMANRYy27xSo3FcvT90ZkJ2cxeaKfro5wkTRwC8MofM-qMd9HVfHRkMZVUo-dXR0sz5UPeF4H95UWwAQlQrqUuedUzcTGj8BOGx5OOP26k6QEym0qYobUMhTjUmZK3ieWLt9V99k35YUXy85u8KAlt61mvGLgrZOC6TxguDUSpHVeiEX_xe5qlVQf-M",
+          "is_data_file": false
+        },
+        {
+          "filename": "New Episode: Episode 163: 2026 Forecasting - Subscribe by Email.eml",
+          "mime_type": "message/rfc822",
+          "size": 28185,
+          "attachment_id": "ANGjdJ94gQgARldeq0h5ftdx1NH_TpwvErrwZSNeVQawy9bKJJmyfK3USdVbo-9uX-EGFWVWTRFxvWnzNwlpIgiZNClgPomt6W-jT7yc51rWfFLD5JF5UjqTX0x-ahOBI0IB1AOmFelqax74ceWAHnY8UZ1FWN68QvsOi1CGmkeLsVyu3figkUEdjJySj_omDEVWju1xHjVEu4Lq5GeDQtF2nAS7vX5nHs2jKotF4Eo7aoaF-SVkTUm1IfARn89qrbfCuOqN3k2REKsWp1yJVv57S3wB8Jjowfw6yXM2xV1f_YbVnRaMJI4Tv_LDwG1lWN2TM7acBVrSVc-f14Unvoc_fCxB2Wfof9YUW91galhALeziLDaj2lSp6Yj_WEE",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1XSo_BEaoZyQM1Mxnr3gh94M3l02ebVlAl9MPb-AsJ_8"
+        }
+      ],
+      "has_data": true
+    }
+  ],
+  "all_emails": [
+    {
+      "id": "19be1baaa1d4b1d6",
+      "thread_id": "19be1baaa1d4b1d6",
+      "from": "Gemini <gemini-notes@google.com>",
+      "to": "gene.tsenter@giantspoon.com",
+      "subject": "Notes: “Media Team \"Office Hours\" - Gathering insights with MRI/Simmons (feat. Chelsea) ” Jan 21, 2026",
+      "date": "Wed, 21 Jan 2026 18:04:25 +0000",
+      "snippet": "Notes from “Media Team &quot;Office Hours&quot; - Gathering insights with MRI/Simmons (feat. Chelsea) ” These notes have been sent to invited guests in your organization. Open meeting notes The content",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19be1baaa1d4b1d6",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19be179b6b11ab1f",
+      "thread_id": "19be179b6b11ab1f",
+      "from": "Nick Papa <nick.papa@giantspoon.com>",
+      "to": "Gene Tsenter <gene.tsenter@giantspoon.com>, Mitch Kapler <mitchell.kapler@giantspoon.com>, Sean Beitter <sean.beitter@giantspoon.com>, Jennifer Guerin <jennifer.guerin@giantspoon.com>, Rocio Perez Gonzalez <rocio.perez@giantspoon.com>, Lydia Lepinski <lydia.lepinski@giantspoon.com>, Tess Vargas <tess.vargas@giantspoon.com>, Meghan Lynch <meghan.lynch@giantspoon.com>, Media Spoons <mediaspoons@giantspoon.com>, Daina Curran <daina.curran@giantspoon.com>, Elizabeth Deegan <elizabeth.deegan@giantspoon.com>, Julia Weiss <julia.weiss@giantspoon.com>, Temitope Sholola <temitope.sholola@giantspoon.com>, Kaitlyn Doyle <kaitlyn.doyle@giantspoon.com>, Anthony Pedalino <anthony.pedalino@giantspoon.com>, Claire Lovell <claire.lovell@giantspoon.com>, Jillian Beitter <jillian.beitter@giantspoon.com>, Jenn Leonard <jenn.leonard@giantspoon.com>, mgibson@flipboard.com, mikem@flipboard.com, Mackenzie Jones <mackenzie.jones@giantspoon.com>, Kate An <kate.an@giantspoon.com>, Juliana Crissman <juliana.crissman@giantspoon.com>, adennett@flipboard.com",
+      "subject": "Updated invitation: Surf.Social x Giant Spoon (HOLD) @ Tue Jan 27, 2026 2pm - 3pm (EST) (Gene Tsenter)",
+      "date": "Wed, 21 Jan 2026 16:53:28 +0000",
+      "snippet": "Surf.Social x Giant Spoon (HOLD) Join with Google Meet – You have been invited by Nick Papa to attend an event named Surf.Social x Giant Spoon (HOLD) on Tuesday Jan 27, 2026 ⋅ 2pm – 3pm (Eastern Time -",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19be179b6b11ab1f",
+      "attachments": [
+        {
+          "filename": "invite.ics",
+          "mime_type": "text/calendar",
+          "size": 3116,
+          "attachment_id": "ANGjdJ9qFfp1_EZOqUNDcQxJleLNLIyyz5v2TDLwNaR5_TXzs_4Buf9A1M2HQTD8NLqbUqK80uhMKWhUrWoCE4wMAQO4clL6ICbPpMg-NTq-cJ3IswzCe7mFn0GinoWXKLgptFjCl0HJwu4pel9MBuhpEYg-hLIer35tLuxyrF-0pxSV2f-ChmUiQax-bnP4ZNnvXnClaWgNBkjz__PKHkYLcJuJcCO6ZTajTSHOohNRlHyWbVKf4wmQc1bjZyvko1W72vNnLBQr0GhEjo2fpSWGrAC7ibRGATZXLoVNuGuwY2SvMeiUJE7W5qkQiZt7YXymfuOR3HH-CJLq8lv7rGZQdzexMZ09iN_vBnVbSsO9nkqe3R6Xqj5eICd4hvA",
+          "is_data_file": false
+        },
+        {
+          "filename": "invite.ics",
+          "mime_type": "application/ics",
+          "size": 3116,
+          "attachment_id": "ANGjdJ_giJJsmEI4jl-Emj9a4ICC0nLVRi5b8VcaInvw7bYgrF62PXx8p6wdu6oTC5Spkl8Lqp81u4SyWW66OmJ4gTCFbynllWCDXQiou3ORRPZf_3nZZLTNJXEl0BBdqno5d3hjMMha0Kyv7_MdxZaVpAwgJSXQV-pK6hfa50Y9MaGyqefW3my3hRzL7yzJ9Gx7mlBiPBteJ19YFrUCioo16rmvSdAfyUMouahmHAQN2WHlTYdfZg_QHrRQiD1-xw9IkaChHGmlmPUnxghq3DH1eeiZJRPl6G22kjD1ltF08shy-BExmq3xukoNuLvCzs6kWSjSP0NnmqKSr69BDy1V-yZ-rzx5Afnsuic0CeuJP9c7Y9NPq3xgUi7BOxiipu_pOEAyl4k6FKPzT51h",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19be10b15457a83f",
+      "thread_id": "19be10b15457a83f",
+      "from": "Kaitlyn Doyle <kaitlyn.doyle@giantspoon.com>",
+      "to": "Gene Tsenter <gene.tsenter@giantspoon.com>",
+      "subject": "Canceled event: The Great Rewiring of Consumer Behavior: How shifts in co... @ Wed Jan 21, 2026 1pm - 2pm (EST) (Gene Tsenter)",
+      "date": "Wed, 21 Jan 2026 14:52:37 +0000",
+      "snippet": "The Great Rewiring of Consumer Behavior: How shifts in consumer attention, trust, and choice will redefine marketing in 2026 This event has been canceled and removed from your calendar. Join with",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19be10b15457a83f",
+      "attachments": [
+        {
+          "filename": "invite.ics",
+          "mime_type": "text/calendar",
+          "size": 1923,
+          "attachment_id": "ANGjdJ9lCqrYriMrjAO7eJd-jYFY_TPD9Z94kLI6wxNnIpnGn7RVz8EJmN2sWCpiVqNSH-hLiNJSyoJnhttXpLdFYvVv8ERj4Z1HSih4LhbGXCXLraiOBZP1sgwSAG-wcxxxbqNbhy-_TYWw2jOq8-O8eNAaCiXYqsxLv8Wmhy46DhqrmIOk9hi5nYrcdNciDIZh-8M7uX-xe50lumi2NVnSrWcY7IU1QH9ewsOyR3myeqtkPeWtaoLTj6rl1cgeZxsG9hkzP6z_g54GVj2mF0JbuWD7VzWa8W77BaEwpQG18Ng6xKjs3ZMfGNqwBI_aGCAExwiz8S9gMEEc6Hwyqs42zsV-Rz7q6sDC5RBCEwnclI_I3yVG0YziFrYUCfw",
+          "is_data_file": false
+        },
+        {
+          "filename": "invite.ics",
+          "mime_type": "application/ics",
+          "size": 1923,
+          "attachment_id": "ANGjdJ_mUN6UhD8EfaEUsMcupxvrboY_4Hr-35nfMXdqY0QZ-S6aJ6XRGkx_YB2K7sM5nRHOzt-GQhU8ZHORUbRe8qTkW1L0sJI2RYgW9LLmmFIjn_dq4HJrmHUDkmz39wtxRSQqAZhtIe7MdHXumnjJyRJ2UnnVWblKta2AKf2hDtMgD0AlIuDYdk9hjmtr7RpP4DGhZrxwJSn6wX-BLZG6iFQDObj7WVLH0cYiV-XdyHTEe4LhYH7IS_7aHmBrBTkaNhRuUP4t3ahhlE2R4iHC53fPHEn912sNyAhS2YANou08ZQAlCw01IZlR4GWgP8xe-Y76UBm6iOP6mD6pmcRiJS-FXQcC1PVZfX8BkQnXJGAWhwcKknYIid9I4zcVS6lJp9z_4RwLHrYj-OsH",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19be0fc3385390f9",
+      "thread_id": "19be0fc3385390f9",
+      "from": "Lee Nichnowitz <lee.nichnowitz@giantspoon.com>",
+      "to": "Gene Tsenter <gene.tsenter@giantspoon.com>",
+      "subject": "Canceled event: The Great Rewiring of Consumer Behavior: How shifts in co... @ Wed Jan 21, 2026 1pm - 2pm (EST) (Gene Tsenter)",
+      "date": "Wed, 21 Jan 2026 14:36:22 +0000",
+      "snippet": "The Great Rewiring of Consumer Behavior: How shifts in consumer attention, trust, and choice will redefine marketing in 2026 This event has been canceled and removed from your calendar. Join with",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19be0fc3385390f9",
+      "attachments": [
+        {
+          "filename": "invite.ics",
+          "mime_type": "text/calendar",
+          "size": 1928,
+          "attachment_id": "ANGjdJ-89CrCQjKuPsoyRzbM-UYapBV8VdLHnfSrlmecEFqnPHs4KssamMcMkMgjCzW9aqQvInXOCUxrBsXdTHNTiNf9xzJMtwvXDJfSelRlnNTa4r0W2OKwS4GT7tOcuWlNgF7pEW5w_qpiPGeDlckPmcKOUP3IOj4Xvbmzbr1oMz4v-FkJ5iKHH0U-vBrz2lVajLWfpER5snGOyWP2SwvpqTLmdYtFCQJBXRmjPC33cwo7Op1LnsmGueM8OIIrLt90fTWTsdpGz5DhA0endPAi8vhuTywqlauD7-ApjRMa87p-HlnPND7lFbMpIheLiTaZVCa9kXoOSzGO7mr9RLJ9rfR3e45GqDIvyVMXQdBA12Hq2MGL9t0xj_UD_HI",
+          "is_data_file": false
+        },
+        {
+          "filename": "invite.ics",
+          "mime_type": "application/ics",
+          "size": 1928,
+          "attachment_id": "ANGjdJ--Jqnv78KzwyF2vGJ2gWJOf9CrjjyM8vzyT3pwxX8vXbfzikqjkQ9VZ5vPyLU97w14Fl3_S317abDy3oUdz_ZvWIelMOjc6_XHow_yLPK2ileR9ap_LVGEz1ZuBpdr50ftgmREgPUJiHHwhmURa-vB981sWmOPZ5lyYpNgoBZ34SwIeMK7Nt5gXwQXJNNBBGO0SDRWeRIi4adTgjvpbwhVLulGB5VzBaEUDO-3BONZxJ57l3NpkvyMDr_RxmelcsGkhwtm_7m4PYEPIpZ5Ar8TsgglITlNmplVr17fbFicRvsfgye8mhwJu0IVC6o9QKccWpFywwttMRbaM-ebwH_INVHYMkM8OPr8b0zf_9rPVSSggPJmB5lW4WIvK_F0cTEVztYIbTEJrkWk",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19be0f8685b95279",
+      "thread_id": "19be0f8685b95279",
+      "from": "Lee Nichnowitz <lee.nichnowitz@giantspoon.com>",
+      "to": "Gene Tsenter <gene.tsenter@giantspoon.com>, Alyssa Segel <alyssa.segel@giantspoon.com>, Taylor Whitelow <taylor.whitelow@giantspoon.com>, Justin Dinnanauth <justin.dinnanauth@giantspoon.com>, Nathaniel West <nathaniel.west@giantspoon.com>, Margaret Morici <margaret.morici@giantspoon.com>, Lindsay Squires <lindsay.squires@giantspoon.com>, Mitch Kapler <mitch.kapler@giantspoon.com>, Miranda Estrella <miranda.estrella@giantspoon.com>, Lydia Lepinski <lydia.lepinski@giantspoon.com>, Ian Grody <ian.grody@giantspoon.com>, Meghan Lynch <meghan.lynch@giantspoon.com>, Olivia-Jene Fagon <olivia-jene.fagon@giantspoon.com>, Dino Axhaj <dino.axhaj@giantspoon.com>, Elizabeth Deegan <elizabeth.deegan@giantspoon.com>, Sarah Watson <sarah.watson@giantspoon.com>, Phillip Kyei <phillip.kyei@giantspoon.com>, Timothy Perry <timothy.perry@giantspoon.com>, KayLeigh Cowart <kayleigh.cowart@giantspoon.com>, Kaitlyn Doyle <kaitlyn.doyle@giantspoon.com>, Anthony Pedalino <anthony.pedalino@giantspoon.com>, Corbin Brown <corbin.brown@giantspoon.com>, Mark Soyfer <mark.soyfer@giantspoon.com>, Jillian Beitter <jillian.beitter@giantspoon.com>, Trevor Guthrie <trevor@giantspoon.com>, Savannah Griffith <savannah.griffith@giantspoon.com>, Lena Lerner <lena.lerner@giantspoon.com>, Jennifer Guerin <jennifer.guerin@giantspoon.com>, Alejandro Estrada <alejandro.estrada@giantspoon.com>, Sarah Joseph <sarah.joseph@giantspoon.com>, Yasmine Tawil <yasmine.tawil@giantspoon.com>, Vanessa Bittante <vanessa.bittante@giantspoon.com>, Mitchell Linville <mitchell.linville@giantspoon.com>, \"Amy Wu (Finance)\" <amy.wu2@giantspoon.com>, Temitope Sholola <temitope.sholola@giantspoon.com>, Michi Ohira <michi.ohira@giantspoon.com>, Chelsea Hartman <chelsea.hartman@giantspoon.com>, Alessandra Berge <alessandra.berge@giantspoon.com>, Mike Elenterio <mike.elenterio@giantspoon.com>, Kate An <kate.an@giantspoon.com>, Crystal Thane <crystal.thane@giantspoon.com>, Joey Goulart <joseph.goulart@giantspoon.com>, Tess Vargas <tess.vargas@giantspoon.com>, Lexi Rodriguez <lexi.rodriguez@giantspoon.com>, Darah Rifkin <darah.rifkin@giantspoon.com>, Victoria Sobel <victoria.sobel@giantspoon.com>, Mackenzie Jones <mackenzie.jones@giantspoon.com>, Haley Madsen <haley.madsen@giantspoon.com>, Carly Gerard <carly.gerard@giantspoon.com>, Julia Weiss <julia.weiss@giantspoon.com>, Trinity Montgomery <trinity.montgomery@giantspoon.com>, Kianna Hendricks <kianna.hendricks@giantspoon.com>, Eric Zhou <eric.zhou@giantspoon.com>, Claire Lovell <claire.lovell@giantspoon.com>, Monica Herman <monica.herman@giantspoon.com>, Devin Vignali <devin.vignali@giantspoon.com>, Catherine Huang <catherine.huang@giantspoon.com>, Jenn Leonard <jenn.leonard@giantspoon.com>, \"NY Spoons (Full Time)\" <nyspoonsft@giantspoon.com>, Nick Papa <nick.papa@giantspoon.com>, Nikita Malhotra <nikita.malhotra@giantspoon.com>, Jarrett DePasquale <jarrett.depasquale@giantspoon.com>, Bari Schechter <bari.schechter@giantspoon.com>, Daina Curran <daina.curran@giantspoon.com>, Julie Ressler <julie.ressler@giantspoon.com>, Vicky Lepham <vicky.lepham@giantspoon.com>, Juliana Crissman <juliana.crissman@giantspoon.com>, Troi Jackson-Conn <troi.jackson-conn@giantspoon.com>",
+      "subject": "Invitation: The Great Rewiring of Consumer Behavior: How shifts in co... @ Wed Jan 21, 2026 1pm - 2pm (EST) (Gene Tsenter)",
+      "date": "Wed, 21 Jan 2026 14:32:14 +0000",
+      "snippet": "The Great Rewiring of Consumer Behavior: How shifts in consumer attention, trust, and choice will redefine marketing in 2026 Join with Google Meet – Access the event here Join with Google Meet Meeting",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19be0f8685b95279",
+      "attachments": [
+        {
+          "filename": "invite.ics",
+          "mime_type": "text/calendar",
+          "size": 2040,
+          "attachment_id": "ANGjdJ-YY9qubGFT3kz_Kn_5OGf6cVNk3lnwuGiGt8xVbf_4nMCdbOPn7MfuyQXRKyhValgxQ7Rm5UsoGeI306eJJaxneWA1W23_RxIHi82IruzaZS2CStF_F--mbMYaXM2H24131hNxYmq9ScOLW1YzD3BhgOWPzmJzxOMKkRsDVZyyxWcoqAvv2y6YpwdgBmVd48fRe4E8_Y2gjQAJNkfup8-2YPK5-tJmKN1qMhX2HCmwoR1Ft9aMpLQ2Y_E07lD4kmFAhnjAwp9nTbvzX1DlnAS_GXUTPpkVgx8TqLGLfwgsJkhp3hTZ0liXdCXkJQcKCOzoxkjZjgliHbR6VezVwysnL3Lq6w5w4YbnRXkLmFPqJwAh32xuHWndcHU",
+          "is_data_file": false
+        },
+        {
+          "filename": "invite.ics",
+          "mime_type": "application/ics",
+          "size": 2040,
+          "attachment_id": "ANGjdJ9XO9cqvpb9jz2m6mjI3RvA12zfQ0Yr70JOU6JJ6uL9doEQvPiJ9FbmPrPO8LQjBuN9ihCGwc8pXxIjcAg5IJezc2KOkxGFuTXapDkl5ITp8apQUE9RQZ-cwATquvF1R10dyRAFUpgEP00S2iOzPxb-T7PkoM8VDw5Azys0yPXiS4YLG4d94wchKPKtoH15MMe5TxI5wKFkAZLbx0_Ow5PWvPBgDVzZ9mRHrksFhxT_aj2LqAd3emXUrcG20gHKaiyjzVMT7k5kclLS116yy36fa2ryBpIEohHlYPUct3ZRc551vouybMb5amb8AN4rFrpu75qH22oAfa7vQ6aMIKuRD-0fsUZE4f2c9hhcewWNoGd0R-53r3bJ8jfhR5ggi4EOGEBbzgNirFHN",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bddc7cf694bc79",
+      "thread_id": "19bddc7cf694bc79",
+      "from": "Alyssa Segel <alyssa.segel@giantspoon.com>",
+      "to": "Gene Tsenter <gene.tsenter@giantspoon.com>",
+      "subject": "Canceled event: The Great Rewiring of Consumer Behavior: How shifts in co... @ Wed Jan 21, 2026 1pm - 2pm (EST) (Gene Tsenter)",
+      "date": "Tue, 20 Jan 2026 23:40:17 +0000",
+      "snippet": "The Great Rewiring of Consumer Behavior: How shifts in consumer attention, trust, and choice will redefine marketing in 2026 This event has been canceled and removed from your calendar. Join with",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bddc7cf694bc79",
+      "attachments": [
+        {
+          "filename": "invite.ics",
+          "mime_type": "text/calendar",
+          "size": 1919,
+          "attachment_id": "ANGjdJ-F6XBRioxQ2owFRmlYi68dEL3rClah8PzMGoTWW6NLaELp0wtOYk7IdFbd_z5Sr7f7fII8uP_SOlFtjQb8lCLQmGcvw8e2IwmLEhugZTy6tLoZ1zNgYuZ5SKkwav-5oTiVh4-2Gf4t2aE_HEJWB01NQSPUOzfZLXRuPD9eyfb47YdvbF03cOQXr461CWac7tmcD5xrvQlb9pidHmPzT-Vj0KRL-B9OAKrkTbmF7zm6R5PlIXW5i30aX0rL4345P2kve-gE6U8eX2XB7P61-Q3nhGujjWAdC3axGDTguj4o5rGy4fGui1Yh34zOkkRGoeOEcgVwCdopPQrQt4K0wJGpOEv3ksvZis-BKFUajoZi635pH5k4fuhcLHU",
+          "is_data_file": false
+        },
+        {
+          "filename": "invite.ics",
+          "mime_type": "application/ics",
+          "size": 1919,
+          "attachment_id": "ANGjdJ82Ajq2LU-do8AiQQUQcskhF1I2F-ITNRtj73IbS5EO0_qh2vhbKWoR_WrDlEbNYGMY9ZLwr_7nZYWaSwO5GS8c1leFz4d6vyPa8_MfSjDAwFZ3YDfxdf10rmPvYn2lYvFDMGFE1J0e18Od5orROlGEfd8awQFIj_E-X6vkuCaefmKcXYRCMier6dBjwp26PC3EuFzQ3yl8cjNAInBl9ia6y2kJJocKc-4wD00jZlKXn_1Zen0pLTYOgMdrwbWi_A1v2Y_Gpr971s3BbvcGq2IM14SO-6iBobw-ZQhlkqwmOrMnBFtZ1La4DlR7K4I27zxZO4tmIuJH3KDhkJD-tizd2UILXmHArqrrnly07jrAQAJs5e_KhgQ4fDPEKWbH-TUYWbTIkuMt7hCQ",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bddc7561f8b533",
+      "thread_id": "19bddc7561f8b533",
+      "from": "Alyssa Segel <alyssa.segel@giantspoon.com>",
+      "to": "Gene Tsenter <gene.tsenter@giantspoon.com>, Taylor Whitelow <taylor.whitelow@giantspoon.com>, Justin Dinnanauth <justin.dinnanauth@giantspoon.com>, Nathaniel West <nathaniel.west@giantspoon.com>, Margaret Morici <margaret.morici@giantspoon.com>, Lindsay Squires <lindsay.squires@giantspoon.com>, Mitch Kapler <mitch.kapler@giantspoon.com>, Miranda Estrella <miranda.estrella@giantspoon.com>, Lydia Lepinski <lydia.lepinski@giantspoon.com>, Ian Grody <ian.grody@giantspoon.com>, Meghan Lynch <meghan.lynch@giantspoon.com>, Olivia-Jene Fagon <olivia-jene.fagon@giantspoon.com>, Dino Axhaj <dino.axhaj@giantspoon.com>, Elizabeth Deegan <elizabeth.deegan@giantspoon.com>, Sarah Watson <sarah.watson@giantspoon.com>, Phillip Kyei <phillip.kyei@giantspoon.com>, Timothy Perry <timothy.perry@giantspoon.com>, KayLeigh Cowart <kayleigh.cowart@giantspoon.com>, Kaitlyn Doyle <kaitlyn.doyle@giantspoon.com>, Anthony Pedalino <anthony.pedalino@giantspoon.com>, Corbin Brown <corbin.brown@giantspoon.com>, Mark Soyfer <mark.soyfer@giantspoon.com>, Jillian Beitter <jillian.beitter@giantspoon.com>, Trevor Guthrie <trevor@giantspoon.com>, Savannah Griffith <savannah.griffith@giantspoon.com>, Lena Lerner <lena.lerner@giantspoon.com>, Jennifer Guerin <jennifer.guerin@giantspoon.com>, Alejandro Estrada <alejandro.estrada@giantspoon.com>, Sarah Joseph <sarah.joseph@giantspoon.com>, Yasmine Tawil <yasmine.tawil@giantspoon.com>, Vanessa Bittante <vanessa.bittante@giantspoon.com>, Mitchell Linville <mitchell.linville@giantspoon.com>, \"Amy Wu (Finance)\" <amy.wu2@giantspoon.com>, Temitope Sholola <temitope.sholola@giantspoon.com>, Michi Ohira <michi.ohira@giantspoon.com>, Chelsea Hartman <chelsea.hartman@giantspoon.com>, Alessandra Berge <alessandra.berge@giantspoon.com>, Mike Elenterio <mike.elenterio@giantspoon.com>, Kate An <kate.an@giantspoon.com>, Crystal Thane <crystal.thane@giantspoon.com>, Joey Goulart <joseph.goulart@giantspoon.com>, Tess Vargas <tess.vargas@giantspoon.com>, Lexi Rodriguez <lexi.rodriguez@giantspoon.com>, Darah Rifkin <darah.rifkin@giantspoon.com>, Victoria Sobel <victoria.sobel@giantspoon.com>, Mackenzie Jones <mackenzie.jones@giantspoon.com>, Haley Madsen <haley.madsen@giantspoon.com>, Carly Gerard <carly.gerard@giantspoon.com>, Julia Weiss <julia.weiss@giantspoon.com>, Trinity Montgomery <trinity.montgomery@giantspoon.com>, Kianna Hendricks <kianna.hendricks@giantspoon.com>, Eric Zhou <eric.zhou@giantspoon.com>, Claire Lovell <claire.lovell@giantspoon.com>, Monica Herman <monica.herman@giantspoon.com>, Devin Vignali <devin.vignali@giantspoon.com>, Catherine Huang <catherine.huang@giantspoon.com>, Jenn Leonard <jenn.leonard@giantspoon.com>, \"NY Spoons (Full Time)\" <nyspoonsft@giantspoon.com>, Nick Papa <nick.papa@giantspoon.com>, Nikita Malhotra <nikita.malhotra@giantspoon.com>, Jarrett DePasquale <jarrett.depasquale@giantspoon.com>, Bari Schechter <bari.schechter@giantspoon.com>, Daina Curran <daina.curran@giantspoon.com>, Julie Ressler <julie.ressler@giantspoon.com>, Vicky Lepham <vicky.lepham@giantspoon.com>, Juliana Crissman <juliana.crissman@giantspoon.com>, Troi Jackson-Conn <troi.jackson-conn@giantspoon.com>",
+      "subject": "Invitation: The Great Rewiring of Consumer Behavior: How shifts in co... @ Wed Jan 21, 2026 1pm - 2pm (EST) (Gene Tsenter)",
+      "date": "Tue, 20 Jan 2026 23:39:46 +0000",
+      "snippet": "The Great Rewiring of Consumer Behavior: How shifts in consumer attention, trust, and choice will redefine marketing in 2026 Join with Google Meet – Access the event here Join with Google Meet Meeting",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bddc7561f8b533",
+      "attachments": [
+        {
+          "filename": "invite.ics",
+          "mime_type": "text/calendar",
+          "size": 2033,
+          "attachment_id": "ANGjdJ82gXFHbKU7TaLhequqJwLVmV1IKsz2Vc-npb2XqHSSjao-qiOBgs3qq43Hza6KockSYD_PUnBqUHIQEI9AIxa2DDLAFS-m6yCikicqyTppe_QJBfq_oujpmZfPAUpFA7pE0s2FMVOAzyVe-LY6pAV0jRNWFA_pKqEyq4towRebbV-ALXaTeZVLGHTIpCwtUzLNhHtdGEZxqgWX88tLDuXT55RRMctqrRJtM6WbP7ykb4ysnHr98qd3Hb49ygNbSe1byp_8-mniei3YeT-H9CyMtGurxyZqVkyhLb2wRfyRqI9IIZINXaP6-_jzoVR5vl7eqpEaKZ4h5ZblRvu9rr0LXQeFXznj9GvSwojLTfML9e3B2kFBWlg0nro",
+          "is_data_file": false
+        },
+        {
+          "filename": "invite.ics",
+          "mime_type": "application/ics",
+          "size": 2033,
+          "attachment_id": "ANGjdJ_wSV1QqSM0ZqKeBvARxyC7o6DB14Mo_2Xp8KRmJiumFVdau9wtqVAvKfNKvnragslV2lWskYoesFDrC3_yKOWXkosNljQQpv1J6LEDVoPzpfhqhSiTJF6qJbrZTc6QGV2x0D5BnUCM7dqy1dV9sPOku_fZxmIo4S2gUsXFtEOevVDA3_AreGn8npb_P0ssShGgbN9lcqbsnzkcfCljqsmFEKWbKQM4a6Nu7AelwIbF-D6Z8wOWbdQpcZhkK51m7jjhpdRcl-l0hA73Q-8mu3DugnWFoaeYJvzvH5y18cQnH0GC6WS1yhIki05taZolZdrj8rMP7j7OVtnaBMOlu3pxDETWXVo17N75BXNqA6iXW-0LPryjhnpdTrnZm_7SjZ6MeYSICScu4mMu",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bdd802bb04d48a",
+      "thread_id": "19aff21f6f53392f",
+      "from": "Jenn Leonard <jenn.leonard@giantspoon.com>",
+      "to": "Liliana Palacios <liliana.palacios@voxmedia.com>",
+      "subject": "Re: ADIF x VOX: Branded Media",
+      "date": "Tue, 20 Jan 2026 17:21:47 -0500",
+      "snippet": "Thanks so much for the update, Liliana! Sounds good!! JENN LEONARD (she/her) | GIANT SPOON | DIGITAL MEDIA SUPERVISOR jenn.leonard@giantspoon.com 774.277.2910 @LinkedIn On Tue, Jan 20, 2026 at 5:20 PM",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bdd802bb04d48a",
+      "attachments": [
+        {
+          "filename": "Screenshot 2025-12-15 at 1.25.47 PM.png",
+          "mime_type": "image/png",
+          "size": 395891,
+          "attachment_id": "ANGjdJ9jah32TaBJNV1xwhm0whkr67CWZFPjvY3WMmBwTqUzxOQsVav7BTkDo6_DsD-3ICxuLsir_MQN_3xtldqegWPsuFHNACXMHot4pOvJXwSvqUSuDRT89YbnovH-je2Wb6oOKWcKUq00Dzdwr_ofPPXuMMZyh_uYB5Vfg5X95SGLmxKkvVZf-ToE1cUplSjjU8UZv6lA7VNelfVXWXyTcH0ILDMQ1aQrvlYBaP9gK04ChN0KLbtjW15d16noE-xsiZ7H1p6NzBAPNo0ltgZ81sjWoUNlD0DKdNg0acPZnNNFjyBbD3jO0HPXLZ4doHzXJ4ejoEwZrD85J6VArGPjuJBN-HRePdQSGOQwcAb1IxFzavfVJsh7nbq8IZISJl8IrDl6mcqSTv9sSx8Ch8Q7a_MsqrBro7FrCAVIbQ",
+          "is_data_file": false
+        },
+        {
+          "filename": "image.png",
+          "mime_type": "image/png",
+          "size": 33409,
+          "attachment_id": "ANGjdJ8mva3dqSit60UTUKik27CPBEfDRRi3lGKHEx5XxqDM98a8WbYZjPYzO6Vk25TV_nKyG5ITrj4rLLv8Jf8ZXrc7fR02pDJRq2YE4xVZx6FzJbdc7pto2nUKi4mNgRCciFVyD0bH0aWTK8suVQ7F8nvwwoIyPC3TUfjGvNNuz5pigxBe1c7F48pgADO6ov2Ln_l5x4u8a743gMXPhJe4Fwffh6u68w6yg9wK_1a7v-LThuhx2TJR7a5Bw0Ws5wazsBm_5tphV7FWzz20fH9GqXd045EGLOfm9wB8AR9s2s868dD5MogUyu8zMi5eJAYaXuMHGYA14SjxjWfW2U5kQMrHAARQGRQJtNs8bWbIpgKgPgc2KwGCNQgsOmuW2cjd0GFPdEU0KvD-g5kGszEebDcMc--VXbStZ164Mg",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bdd7ecb345c4fd",
+      "thread_id": "19aff21f6f53392f",
+      "from": "Liliana Palacios <liliana.palacios@voxmedia.com>",
+      "to": "Julia Weiss <julia.weiss@giantspoon.com>",
+      "subject": "Re: ADIF x VOX: Branded Media",
+      "date": "Tue, 20 Jan 2026 17:20:18 -0500",
+      "snippet": "Hi Julia and Jenn, Hope your week is off to a nice start after the long weekend. We are facing some internal bandwidth issues which have caused a slight delay on the wrap report. I will be sharing the",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bdd7ecb345c4fd",
+      "attachments": [
+        {
+          "filename": "Screenshot 2025-12-15 at 1.25.47 PM.png",
+          "mime_type": "image/png",
+          "size": 395891,
+          "attachment_id": "ANGjdJ-vvMUP5FkkN7pcDhXknoBpdMfLnzVoETQhcUgMhGukXLUkSNz02bC1JUkTRbxQGe3vgnk1aWWygNR1kCW_sWQ_0n3iz3-LfxpEx8W-9p5lvVVIihixBCVkdB616nRX8MjPXLEkhtWOIHWKB9NQ-DTWK4id0i_BxAgL49_lXFVBSycWI3E5T9aATyONlTOGefhEBZljyBT-EAwU6N9tLgEGF4znL-yuAYIylofe7ASaXh4vw20mQoeVebW6oRTUrWQIQhUkdwBMTrWUqriYMZD9liRY5FMhV2_9NQnLw_I9nbXULKbSvHU35Arq6WfjZqMUlpF0dwuzMszpbwD71KGehAbZC_H7beYf9sg3cZ5O82wEfyunauNMvSLKTA--2QFAMLx4fw1Eqsl-W7K9zrzLTltNpxhXKJgg4A",
+          "is_data_file": false
+        },
+        {
+          "filename": "image.png",
+          "mime_type": "image/png",
+          "size": 33409,
+          "attachment_id": "ANGjdJ_iwCxhw2JcdmGY3FFFKA1W0lirQ0gvbos_WOtiIrJieY1kECoB9xeYJMLxS1X3aTNmGPeSU1UfpBR6XZdAFuu25YxO-4_HL3iquqnK0tQCc6ncMrVhaik2W9zTszt9J0KmkiUtnXhNl9uOlodMZFH4siZRx3z5Yl-uawM0hJlulSwxydbkf23VyR-OcB-Dhs2z1o9K8w3BcdzktKz7VKzoP265ke6Yf7BPPs-e9-sYIWRxvoNGr7wiWMaBQ9M9WmQRmlqzd8eK-MbJqAZtRpaqnaiuMnXqiqptmcYsK_ppi_3ICtnz5NTXxmow-ribmHuvwTkYANWfQ83ZZitLE0LGImequnDC1VztzvpavqHUXFEuvu3duEo_lc-FLmL2ZjehxLpJv0fzYyfXDsLdHb4kiYUl7wiKrIh8Jw",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bdd2e74e8627da",
+      "thread_id": "19bdd2e74e8627da",
+      "from": "Jennifer Guerin <jennifer.guerin@giantspoon.com>",
+      "to": "Gene Tsenter <gene.tsenter@giantspoon.com>",
+      "subject": "Canceled event: GS CLOSED @ Mon Feb 16, 2026 (Gene Tsenter)",
+      "date": "Tue, 20 Jan 2026 20:52:47 +0000",
+      "snippet": "GS CLOSED This event has been canceled and removed from your calendar. When Monday Feb 16, 2026 Guests Jennifer Guerin - organizer Kate An Rocio Perez Gonzalez Lydia Lepinski Nick Papa Gene Tsenter",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bdd2e74e8627da",
+      "attachments": [
+        {
+          "filename": "invite.ics",
+          "mime_type": "text/calendar",
+          "size": 919,
+          "attachment_id": "ANGjdJ-uH_dHi49FJlq5EO-hv08Qju5-hE24tNYiZ49SnNgPIIHKMyE8EpXQJtMGCa6ffTwbTVg1QCyZspXsLuDsOOKSMf5AJGdSCAOuFa5tPm_van-x4Gj7F2dAtN5lBwHz79dDymNN5QxI7OGhwxw_PfvlEvBLN8sfhzO3q3YJQ5BQki46mx7FsyWAD3S1D_MeO3jlM9C_JGpNeqpkRU8GoDgkSxU0IvcIWoGe_A6y94syFdwBwUdcmHUWdTvyvzr6uF6vTXm1MMwueuqsg_In3Pm8EgLNXKMgfGWxSBY95mdFSFtUDJeIZB4BoTo89el9Ua1DCmePIFxZzD9AbBAJ5rr61mnVS5mZb0bGkEO714ihRFCZtd8BnEDOA4k",
+          "is_data_file": false
+        },
+        {
+          "filename": "invite.ics",
+          "mime_type": "application/ics",
+          "size": 919,
+          "attachment_id": "ANGjdJ_x6VrbD-pGwPjayt05rTca2CRGJUmELBSLTd4yDKuFW8a0vbpCiGfgC0Q4PZDEib8yBGHorYuq4md1WhMw4QOxeSgzOVerG-usQc4_Fz3PJvoFSVePMmKpGZvzZRDfiOOZFJ99P-KtUzt-zOcv-bXYup3d968E2cGm6E5e2FMwQtekbzCUkjewR9UwUQkoTcRoXmLzDFbMwqZkqTUjg-iLClYSz6JxJVwKcFDxMR2x8QPCViLV5Bq6dGFYAHFub8fl46CufQJkndD_-7k5qWTY__X-x84TAJ9QI-iw8Pb-Z6YQmy_B9LHGAJ4qlqanvFOdSiBtswQj0035nm5hABsiKM8WSLkAqG_5-uE3WQg2jOIMeKw70Yq-6yqmDJpetKmEx-3lhW9Hn2og",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bdbef41bd868e6",
+      "thread_id": "19bdbef41bd868e6",
+      "from": "grouporder@sharebite.com",
+      "to": "gene.tsenter@giantspoon.com",
+      "subject": "It's time to place your group order.",
+      "date": "Tue, 20 Jan 2026 15:04:07 +0000 (UTC)",
+      "snippet": "Your Group Order in Giant Spoon - NYC - Tuesday Group Order Lunch is closing soon. The ordering window for one or more of the Group Orders you&#39;ve been invited to is going to close in 30 minutes.",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bdbef41bd868e6",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bd7ac53b62abd8",
+      "thread_id": "19bd7ac53b62abd8",
+      "from": "grouporder@sharebite.com",
+      "to": "gene.tsenter@giantspoon.com",
+      "subject": "You are Invited to a Group Order",
+      "date": "Mon, 19 Jan 2026 19:12:31 +0000 (UTC)",
+      "snippet": "You&#39;ve been invited to join the Group Order &quot;Giant Spoon - NYC - Tuesday Group Order Lunch&quot;. You&#39;ll be able to place an order until Tuesday, 01/20 at 10:30AM. Order Now Group order",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bd7ac53b62abd8",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bc8e7710b00411",
+      "thread_id": "19bc8e7710b00411",
+      "from": "Martin Chipatecua <martin@bookedmedia.com>",
+      "to": "Gene tsenter <gene.tsenter@giantspoon.com>",
+      "subject": "Quick intro: Reaching Hispanic audiences in 2026",
+      "date": "Fri, 16 Jan 2026 17:22:07 -0500",
+      "snippet": "Hi Gene, I wanted to briefly reintroduce BookedMedia, a certified minority-owned and operated media and marketing company specializing in authentically connecting brands with Hispanic audiences through",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc8e7710b00411",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bc7db0175680e4",
+      "thread_id": "19bc7db0175680e4",
+      "from": "Mascha Strunk <mascha.strunk@giantspoon.com>",
+      "to": "ALL SPOONS <allspoons@giantspoon.com>",
+      "subject": "Wpromote celebrates Martin Luther King Jr. Day!",
+      "date": "Fri, 16 Jan 2026 09:29:24 -0800",
+      "snippet": "Happy Friday Spoons! Sharing a message from the Wpromote&#39;s Black Voices ERG, who have been putting together a few notes in honor of MLK. ______________________ From: Anne Clement &lt;anne.clement@",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc7db0175680e4",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bc75118a58702a",
+      "thread_id": "19a31dba99d374f8",
+      "from": "Brian Hutton <brian.hutton@disqo.com>",
+      "to": "Julia Weiss <julia.weiss@giantspoon.com>",
+      "subject": "Re: DISQO | MIQ - De Beers Q4 Campaign Post-KOC Technical Thread",
+      "date": "Fri, 16 Jan 2026 09:58:22 -0500",
+      "snippet": "Hi Julia - thank you for the additional context. We&#39;re working internally to shift things around next week to better accommodate the urgency of this request. We will be in touch next week when we",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc75118a58702a",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bc403cf743f989",
+      "thread_id": "19aff21f6f53392f",
+      "from": "Julia Weiss <julia.weiss@giantspoon.com>",
+      "to": "Liliana Palacios <liliana.palacios@voxmedia.com>",
+      "subject": "Re: ADIF x VOX: Branded Media",
+      "date": "Thu, 15 Jan 2026 18:35:24 -0500",
+      "snippet": "Great, thanks! On Thu, Jan 15, 2026 at 6:17 PM Liliana Palacios &lt;liliana.palacios@voxmedia.com&gt; wrote: Hi Julia, Yes! Aiming to get results to the team by Friday 1/23. Hope you have a nice",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc403cf743f989",
+      "attachments": [
+        {
+          "filename": "Screenshot 2025-12-15 at 1.25.47 PM.png",
+          "mime_type": "image/png",
+          "size": 395891,
+          "attachment_id": "ANGjdJ_rYhj3nGCN7-MjJoRG_ikgdWVDKKXwBh-qrvep3pd5rUxp704kOfMRkc2udpVne1FAt6E2hjkoCYU2BT7bpgxYDF3CGaYIggV_cwMe2Wc105Qw-ZIJbMxBV7mEv4zDkGguZLkWmXWqAwaQz1KXAc-L8EMVDE8bRoRB1dAwAe-cd8sxWoJBO3Thm__zv-cWAjsSMLGTmZQGSHuHD3Uop889bJkaGqHCxdHuFr1WjnvzehZ9X_lrrjXXbpLwNy0jyjlbLOtJ1hq3HJZo__SNy_gpFVdD-qDUps3ieFErfoilqaFhbeVqB3_BwOC6BMO9lh6T0mhHw9BWkRBnszxmic1jMC-f2kBJGtqAWasmKyvDCjrON4Ax1hmOZKuubiylaDQxVDFkzuT5CCDumUhNBaadgEJWt6wRboTt4Q",
+          "is_data_file": false
+        },
+        {
+          "filename": "image.png",
+          "mime_type": "image/png",
+          "size": 33409,
+          "attachment_id": "ANGjdJ-3nqEu6zP5oz0vaJClPdNQbBdjydq0v2Uid9EIA0zi1LlHtcUboopAbRwQtq0_i0Yges1-IWP-506mSzM8SHqiQQG-4v6hTYXz4Yclqal3OIJ8BeZXrG5EiQXUZESH3crzTVrx-n6NwkEeiEJDvM7WN9TOMKANTOiy8jAJSinTCKDCv4GwSpEok50dF9f0N2hf6ZfKUamMZobArxxe_K_WXTQcAAcFTOBZxWw16SqUhEA2slUa_obww9ciZfFrHyHXUg1YnJYtKXQLMnThi4qfePagXIzolHox70D3Nqsg6IYhbaEX3Vy08Vo81TIVWiR0OFle6nZoT3TL5En5OgHTVa_k_iADOVT0VHL7asJejvKdXoke4HIo7ato_5qRQ82LaLsOalxr-VAjG_Cyuw6cS2X4Y5yAykndtg",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bc3f2fa1c8326b",
+      "thread_id": "19aff21f6f53392f",
+      "from": "Liliana Palacios <liliana.palacios@voxmedia.com>",
+      "to": "Julia Weiss <julia.weiss@giantspoon.com>",
+      "subject": "Re: ADIF x VOX: Branded Media",
+      "date": "Thu, 15 Jan 2026 18:17:07 -0500",
+      "snippet": "Hi Julia, Yes! Aiming to get results to the team by Friday 1/23. Hope you have a nice evening! Best, Liliana Palacios · Account Strategist Vox Media The Modern Media Company. — Follow Vox Media on",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc3f2fa1c8326b",
+      "attachments": [
+        {
+          "filename": "Screenshot 2025-12-15 at 1.25.47 PM.png",
+          "mime_type": "image/png",
+          "size": 395891,
+          "attachment_id": "ANGjdJ8_IdUYUV3qhiRAIvMDpaf_SLS5neIcivHtmn_bPXDJ8v_dXefYOE86tWXJ4mXrQVUvu9kSPuFmwwqn6iifwOi9Jd43vqdVvYWcsFM784hvJ3WR6PChTDDM08g3BA3HyMY1APHCeRr4pH1SRqMcsNgUSvIfSHOLD4gTe4kXsFq-Ieq7fHdRkCrGPLOy89R5D4okBqeiuTTK3l1-k42e_wQD41sLSiSrYost0r60ebFV9uR1lFcl0-QNGPECJwrdzx5qO6ZCw0e1qlrsG1xFmzR0uRhtV8q_prDxCjWoMdR_HYhNLDXR71LYPZ1LBO01Q1fF7-5dcsWTw6pw-fd_oFrajmTpaNHgrx5slD4S5j_znEzvkOJM3ZZjemKwehEh1HXRRAUNl0wI5HnNPdQ1JevkdLIoy1ip5tgCAA",
+          "is_data_file": false
+        },
+        {
+          "filename": "image.png",
+          "mime_type": "image/png",
+          "size": 33409,
+          "attachment_id": "ANGjdJ__4lt4SqB3ps3uk3gltpta-6IgLbXxSaNbnpWJ-neVs3SL4k8RykpeiWjaLRE3RtQg91zAHXgpUCDe5bAoHLERFwjU3ctOBXRRFQgjUF51TPgiL4LgyzVflihrEhTcfmrfaE8T6iv16tf_3BPrMPlFtu8IXO76_Jzts42-8Tr7ekaPyu8_7IV8KJeSZa4_KbMlbe2M6sX6NSQYPM7SxZ5Cyj43f8JNI7CE7pSrod-YkL-5PYnd1Pr9ZiqfL8gS2sMrKvXrvxCskvvKt7swiVjxHIVpbgXO0F-Pk0ahMA9CHh-b0MVnQ-SDyPVYZJ48Fw-yRFxkSUL41z1ugY2VxqI1gDOmFdT_6FWFDZcvrXdglIl6Bm0up3r9kqdK50oSUQgcaljPng5nTflruJbaIy9kvXGHOsY7OcWwVA",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bc3ea8bb5cf577",
+      "thread_id": "19a31dba99d374f8",
+      "from": "Julia Weiss <julia.weiss@giantspoon.com>",
+      "to": "Brian Hutton <brian.hutton@disqo.com>",
+      "subject": "Re: DISQO | MIQ - De Beers Q4 Campaign Post-KOC Technical Thread",
+      "date": "Thu, 15 Jan 2026 18:07:48 -0500",
+      "snippet": "I didn&#39;t mention a date - they need by next Thurs (1/22)! On Thu, Jan 15, 2026 at 5:43 PM Julia Weiss &lt;julia.weiss@giantspoon.com&gt; wrote: Hey Brian, Jumping in with a request to expedite data",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc3ea8bb5cf577",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bc3e90f557dd86",
+      "thread_id": "19aff21f6f53392f",
+      "from": "Julia Weiss <julia.weiss@giantspoon.com>",
+      "to": "Liliana Palacios <liliana.palacios@voxmedia.com>",
+      "subject": "Re: ADIF x VOX: Branded Media",
+      "date": "Thu, 15 Jan 2026 18:06:09 -0500",
+      "snippet": "Hey Liliana! Our client presentation is on 1/28, so is 1/26 possible? Really appreciate it! On Thu, Jan 15, 2026 at 6:04 PM Liliana Palacios &lt;liliana.palacios@voxmedia.com&gt; wrote: Hi Jenn,",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc3e90f557dd86",
+      "attachments": [
+        {
+          "filename": "Screenshot 2025-12-15 at 1.25.47 PM.png",
+          "mime_type": "image/png",
+          "size": 395891,
+          "attachment_id": "ANGjdJ-dRR_FF2jfRKE2TZZeSC3BjHIPn1Y1ELqYGyDMKcgCYINRjDKXo0YKNMwbpRG2tQLK4tYZN7EaOxvZhjgupNo87BtbBhZMOnaqr6dykPYRd4hxLHnYXoD-MJM3Wrj0Mk1dk2UjTxytowdE1oQ7vxOZmO5vGi01kWCuyzGdA77BDQlOlvfTmJGn1eMK4cR7UkjQ5Jg8enU4b7vLtgH2SH5d6ATVlIvgUC6HdMm0aLX9_JAtbNQn1oqeXf_m369ZGB0FsmJ-11jo6SDWGFSjuhLYVF0lHwvfQh67x3J9HVyVfqDt93rz3fM8jlGVithlPbAEqduLjQFBaXxr2K-LhsHAggjRQXF58DAYXk-zcSlm63VYQvwp-sC6x9vkl0cv6wnkHneKwb8ey6jY7yvySuF156PbUrlzPDmFRQ",
+          "is_data_file": false
+        },
+        {
+          "filename": "image.png",
+          "mime_type": "image/png",
+          "size": 33409,
+          "attachment_id": "ANGjdJ-2-4mwR8CNoulzI1jtydxn6suJ_DZkSR-beO72e2171JNKmfd3hBto7129iWO0Z4PRTykskY65dRmDsXJ9zoND-u5vZuU9iL5mQQe9ewz_9q5fdUYGCy5j9mvgmDnfAccUbPAebnQuWoEyszWblNS47zmKHu3TsvA3XgCuOdYvAvWxG2VFTTStlJac3GxcAv9KufqC5HamqEKTQswcKkAJbRpcbt_Z970Ozmq9-PePpX26-Mk4vJtB863wVKCe7mJtvLQX3Ryk_giRu8zL-sh0WnnOsd9NCDoH7Qn45iZHaSW0hTQVMmN8ktwfn2r5Kvc10mtYhy0yHseKhZJV0-28j3JfQ7mItWadcqmTyZXvTYle3nCNv_Uqn3DzjiNJLKCLz3P03JN2v0-eox9clvraxaTGN1AqSLDJFQ",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bc3e7ac07048ae",
+      "thread_id": "19aff21f6f53392f",
+      "from": "Liliana Palacios <liliana.palacios@voxmedia.com>",
+      "to": "Jenn Leonard <jenn.leonard@giantspoon.com>",
+      "subject": "Re: ADIF x VOX: Branded Media",
+      "date": "Thu, 15 Jan 2026 18:04:45 -0500",
+      "snippet": "Hi Jenn, Confirming I will share the tagged Brand Lift Study results and insights no later than 1/28. The secondary forced exposure study, using A Diamond is Forever custom videos featuring Jade Trau,",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc3e7ac07048ae",
+      "attachments": [
+        {
+          "filename": "Screenshot 2025-12-15 at 1.25.47 PM.png",
+          "mime_type": "image/png",
+          "size": 395891,
+          "attachment_id": "ANGjdJ88uzvwlZTZRWfKrNiBqYgMa7W0Nhop0E7APt2tWP70TnEliZlB7Z96YCc4U02XVyParpRnRxk5XferLmHD_772DIs0qk3NcnmYmnTcU-pnc2ywUEVP-ra2SnuTHlDcd4asMymccphjsZDgjnhXwXep5Ppzegd0mGFQ3T7Rw0HQ0jvXiXh-1sVI504vSFKWFkhBbjUJfO99NuHx7N-3lOT44kcbwU0gZwpkefi_n7ET_3Au-6k94QO8coEz2jTsXRHgcWxG9Spjjxw01tBOH8oraDhHZtx2z0ylQ4SnZYxt6GJjSpeJuUcwet9pWvPln65VUzI6SvD9joTtWOMkbwJJpBQCYS5KQMRRuTjHidTYFLkgp9ZQsgbEJpNp11lgMLsyt6EsDHpTKfbnCCNYflyg-5BDEZv_-Ao_xg",
+          "is_data_file": false
+        },
+        {
+          "filename": "image.png",
+          "mime_type": "image/png",
+          "size": 33409,
+          "attachment_id": "ANGjdJ9NTRPkbMjKIvDrpV0tsyf1vjlhBZf64HY4XmIZPU9BpqTpEYfmD3Ow0Kyec5f7rUWwQrDuvbEYkkTsJKj7Cz5cZ3f_1LmX6N9BYkZIqfUtrlBFgl9W9iUdw1VLeYFbuqZYL6kgux4kjGMeo93bA1EsSP9ZcbsbCEoTDkr9d1KexNMst4hxK-ZR5e5yMfP9MK1ksdOG6gqCeb2r7fJtecQiaZGdUxDhOZei2nQNUvSVT-dtNEKJhPC9J5s-ZPvJOleX01MBZGjgV6FWUOMN9C-YX5RjkgBjmtci7rG-xcvsV8k2hnnlS-FqSATqQO0U_QZK_ZTc9vUXvfvw4kH2Ys3E-oZYE-1mTMWhYUQgpfUY-YyW6A85JuCt_q9BbYTIBboquOWY7I-26ro5Eu--EolWzRgbcjoE57pezA",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bc3d5b99587dfc",
+      "thread_id": "19a31dba99d374f8",
+      "from": "Julia Weiss <julia.weiss@giantspoon.com>",
+      "to": "Brian Hutton <brian.hutton@disqo.com>",
+      "subject": "Re: DISQO | MIQ - De Beers Q4 Campaign Post-KOC Technical Thread",
+      "date": "Thu, 15 Jan 2026 17:43:29 -0500",
+      "snippet": "Hey Brian, Jumping in with a request to expedite data specific to independent retailers and Signet. Would it be possible to get that cut sooner? For context, ADIF is under De Beers who shares a",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc3d5b99587dfc",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bc3749656f73f5",
+      "thread_id": "19bbce07994123a3",
+      "from": "\"Gewertz, Randi (RX-HBE)\" <Randi.Gewertz@rxglobal.com>",
+      "to": "Tess Vargas <tess.vargas@giantspoon.com>",
+      "subject": "RE: 2026: ADIF x JCK: Reporting Template Request",
+      "date": "Thu, 15 Jan 2026 20:59:10 +0000",
+      "snippet": "Hi all, Here is the first JCK News Daily of 2026 for De Beers- ADIF- Sponsorship. See attached. There also is the ad running in the Leaderboard promoting the JCK Podcast first episode of 2026 sponsored",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc3749656f73f5",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 5822,
+          "attachment_id": "ANGjdJ_e-It1kqBezEwMTCcZyPlFY9C2uGF-54a7JZsGe4qLJV4Ijwkm-5qKimMnHmXtv9P9KCDkD7hvhoaBwHj08dAFfw8pXyMKGM1WZP3FmxPdC1pfrjEndX3utRZJz9E5qXsDp_r3m4JCODZJGCA5veAjOpTakWJMJvxTUY1abgmZ93rz6clQlYVCiDmvaFA-Gdr8QBc4X1BYAoEbKKz8NlepsvZT4rNZjDNvBu9oQPXgOrFFB8xWobajxbZBMHDI2ZhVmyeR31FSdWn0_jvXEVOSWbgQfu-udsP7BAp7hH8t82ytq-hFrq-GDQ-y8xvsfQaDOBqKFKMRaqdgwTJWbDuOLa0pR9CppNI_nzBRvY9hgg1LYcQw5-ARAVaJI8rhLD9o-vHHML4S5Q14",
+          "is_data_file": false
+        },
+        {
+          "filename": "“Massive” 41.82 Ct. Blue Diamond Found in South Africa.eml",
+          "mime_type": "message/rfc822",
+          "size": 166317,
+          "attachment_id": "ANGjdJ_dBW_Dz412eBYG7cY_v_us_-h6SpFAv1Iefkdw9DdNMmDrQUc-06PUVsEsW_QwYX16pu_DEtn6cuUfFKE2hoL7s-HmlviY_nh0cMqKZAL5GVoTX9TV7eOrjXKUYqig-33cSijzjD-U9bul0Uf1cf_ITsHaTGoTqS-G-Nwj6dehHxZL_41UAIywmPl1VzJDmtIHh2QBz2N1LX5QjC8Q38PBLMLe2oqtU3PPGOcl89vIDAUQI76FDmmH79AaAna9hXfaWL3cyQfdYUTxG5f4AJyvJ_RyzleEWacjKDmJ2F201wkO6Cwont93W3UpHUce9tvNPoUWTd8xItnvaqnqG4nxTDoTwhh2aFFLdFtlnY7iFoxCLPZNckWAe9g",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1XSo_BEaoZyQM1Mxnr3gh94M3l02ebVlAl9MPb-AsJ_8"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bc34f86433cc55",
+      "thread_id": "19bc2a864895f5c6",
+      "from": "Meghan Lynch <meghan.lynch@giantspoon.com>",
+      "to": "Sarah Leidy <sleidykelly@drinkolipop.com>",
+      "subject": "Re: Data for MMM inputs",
+      "date": "Thu, 15 Jan 2026 15:18:25 -0500",
+      "snippet": "Can we use &quot;W_Example&quot; tab from the template? If so, just a few other clarifying questions: Should &quot;product&quot; = olipop across the board, or do you need that to be campaign, ie &quot;",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc34f86433cc55",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 42215,
+          "attachment_id": "ANGjdJ9diHanIvx-ZuBksmtgYn2EoRFBNL79kH7Apn5ofAQPxO8UD9KgWeyE22tGmotPWN3_XO4JnaHYBSQL_0ZKuOpKfpPUL0woUNdXpsDWi4LllqlsoQytaitK2J0civVjc77M_B6E6z31xqvG3hIY_7gyBoc7fzGC7bX3jI07iEPLpLzfLSJe6r0jzRO6qfggcR3Eu9c-L4tV71L7rcbC35tMN7F-OTDBnSnWc6IW8HSEpklHGVF60nQ-BHkUYuhGm65CphHUSNMFPhDySRUR60kkpb8TaRrOk_JQm3wCTGnmxOHaKqPSaUCHDMkxVIv-_y1PlfMGY8ZJUOvcp8jWEaQBE6Xd-JyifUZgJLXi32KMMEc9cnkT0OXu6udzVWs6q-2PFCMMMuwvfxX_SSuqeporggR5EcjtDFp6cw",
+          "is_data_file": false
+        },
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 42215,
+          "attachment_id": "ANGjdJ9D0KrlvHpiFIL81D4c5cvxDk_1Q1cmS3e9t-pnDEYMZAU1YjWIM5vVh9E7qPYGV5vNiqy6QTkxI-Pr3Tb_CMAm01Z4A3RsBegknBzif-CKZblTjPoeu094OYwecUFSOU588erqkP_pUuzxEQICxnoo4D9QxDW5VlVUy8dOIDi62navaleA3SbaoZb6C4Z1FgJFj44nJOep6A4XSxRAOC79rvSvuZDcijUGbKaL67K6z7YMxgcMNbojfaDa9mrvgWSkiV4lt2LEZEWFQo4LslPal3hd1Xsr7PYdBBrgHAUGGVTGzsbgsxYX-kJbwrH0bkJd5Uq-HfhmtWKGXTPS3nmikRffbvcucHG3jT6t6c-VzKaKC0U26eJQzb3JM_Z18_8APzVssa5oyoejSWGG7rnHAtLtPsdhMVBbxg",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bc2a864895f5c6",
+      "thread_id": "19bc2a864895f5c6",
+      "from": "Meghan Lynch <meghan.lynch@giantspoon.com>",
+      "to": "Sarah Leidy <sleidykelly@drinkolipop.com>",
+      "subject": "Re: Data for MMM inputs",
+      "date": "Thu, 15 Jan 2026 12:15:56 -0500",
+      "snippet": "Thank you all! Confirming receipt. Since it&#39;s by week, we will need to re-pull this data vs. grabbing the info from our existing wrap reports, so this will take a bit more time. Let us regroup and",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc2a864895f5c6",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 42215,
+          "attachment_id": "ANGjdJ81Ls43R8UgrPjwKBUf4thwDJbNyEeHksDQdG8dToVHisPjaM0TCMn3A9I1PCM1doP8Dk1_EIjdXNlQrBUemIkh_DnwHwxdyitCIviYm5KNOC4u0FW5fsQEW4bC7Rh4k5qhGqH182VUXCLHeIv8cagpagcj-EcZ-vegmKUV16rETEGIu84NmiRuRcbY_fDqNJNVmJ_rGGbvZWiOrhSIpf4I5BV-FJcHRL9_-gWX1nfN8lvS0QmCqE6Ifl0TcsjhroAFa2c-N3rXG3f10jdP1pKKduse9iZH02NDwgRMlAecq2_1w50fI6MfofE_Rz7L_CMjfnDupbu8TeHf_qXF7qXJIJm_L3fENLL3m8dNWgzYtGOmdtNJyjFnq7swS9jVoxzNnoSlv31xHSOPMhhfB8gESWgGgbeZZAw5-A",
+          "is_data_file": false
+        },
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 42215,
+          "attachment_id": "ANGjdJ-58lEEKqGQ6u--OtH90VbGswqtb44qI9_gadc6BMPVLSXoBRP461UYOiBjclPXVPlOR_DXgR0vsUgs0ziXriVSTE4MeMURNT9uW0rQTYyPhxQ9Jirc8s7_IS4yBtyapK45Z6pJuMVempAQ5Sp9tlPRCpzu7pKVmmQFUCaOpxdlhQ3TXXvCCEK_0Jqy_ZK9njeHntM-K5CzpQjRn6ANxSRDvUadXVKC5QvLL45MBE_u-XWW4O9DWMAWP0eFMLtFrNdMA-5SXMY1xjB13r8UmWFM784yhixECQdmKavArcf_mx6y4dEQYB9QoqyPhYu3GmOqBQhNmxzq75noEJ_ed6kHPpuE4IOCZNG8Lxe5hcwssmwmsYR1K5KPQ-teiuZ6D72LGygi-nMXgayUL-fHcEX-eq4lRf3jNUG1Aw",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bc267a5f8498d6",
+      "thread_id": "19aff21f6f53392f",
+      "from": "Jenn Leonard <jenn.leonard@giantspoon.com>",
+      "to": "Liliana Palacios <liliana.palacios@voxmedia.com>",
+      "subject": "Re: ADIF x VOX: Branded Media",
+      "date": "Thu, 15 Jan 2026 11:05:13 -0500",
+      "snippet": "Hi Liliana, No worries on the 1/20 delivery date, that works. And understand on the timing of the BLS results. Please let me know if it is at all possible to receive those prior to our client call on 1",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bc267a5f8498d6",
+      "attachments": [
+        {
+          "filename": "Screenshot 2025-12-15 at 1.25.47 PM.png",
+          "mime_type": "image/png",
+          "size": 395891,
+          "attachment_id": "ANGjdJ8InT6qxWDGWG5YOvdw4gqhgxGTer4UvfYBv5oTe2137BXLbhbylcFPD5yUAmyQqOt7My7BmNQHj22fr44n0Qe-6skznS05JkA70praCg793FTZ-Z-xmlcDvqQwncWsuyyR2e1STt3lx3k3Vo_ysk107eLb__T2GdkPNm0AI5SUs8-2fZ6DwjMuynJ1YBxQL5PPeMTOyh6x-oN_1S0jdQaU1TNI2fA9EWts-1eOI5RQgnd5XrpsXyjkcBny7Znt6KSPYBgp1nS_-SMczm2aT3yZowvEbfTcr4AwEOWCRrwWGCrwtPTJzEzIgPVV7KCFLmsipoDSU_K8rdlxFnX8xfbPiaj7RIVOVzp0lvwvLb-XBQTvfzS_2sWLXmgARA1qu7qUOpd5g_QGTkOd_ASbhqalfolyKEujah-HOg",
+          "is_data_file": false
+        },
+        {
+          "filename": "image.png",
+          "mime_type": "image/png",
+          "size": 33409,
+          "attachment_id": "ANGjdJ_jRIkW22aNHBmp77st0MU0Xw8gp86J4DYpeiemwsS7EJUloEwUuB8TLCZ5zoFRX-7rarV_nog1iPLcxhIRaPQSIqDqKhACwpd-eRW7A0OfUivnkdK1I0UUzYeBjrhc23Z5aPI5CaRJQEzuIx9TYyiKEDm9tinrovKtkjmTyW_nqZoaOgt4zM-hdiT4s7EEc95PUE6FUUh1vJiO3bMzpHHNHc1ZH5FMZlWYM61BjtRu4ohl3SHyPYnAJcobMLtni4N16dCgy-j0TZR4CWbHNsa-WUewMmgFD_jWUvGAL2Gu3y6EzxvW8lcclGUFgYxHS2aCD77Z702EObkVlzLr-5nhydgGN-2RoHzspdb7cf9NDBRyJ8NTrMf_eEn8uC_fNu11aLDELufvTxljtmgqlXocI_OEPdc0vurt1w",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bbf29d7b7d1a43",
+      "thread_id": "19bbf29d7b7d1a43",
+      "from": "gene.tsenter@giantspoon.com",
+      "to": "gene.tsenter@giantspoon.com",
+      "subject": "🚨 Error in Script: mft_refresh",
+      "date": "Thu, 15 Jan 2026 00:59:08 +0000",
+      "snippet": "An error occurred while running the script. Error Message: Service Spreadsheets timed out while accessing document with id 1Ijjn9qHgiLf5FQ4sRh0-AjkoA6khLQyyOyuXB2bz-As. Stack Trace: Exception: Service",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbf29d7b7d1a43",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bbe919ee4f5b17",
+      "thread_id": "19bbe919ee4f5b17",
+      "from": "Dominick DeCaterina <dominick.decaterina@komodohealth.com>",
+      "to": "Eugene Tsenter <gene.tsenter@giantspoon.com>",
+      "subject": "Higher‑value HCP targets",
+      "date": "Wed, 14 Jan 2026 14:12:51 -0800",
+      "snippet": "Hi Eugene, Broad target lists, unclear referrals, and uneven access make prioritization tough. We can surface high‑value prescribers, referral paths, and payer dynamics so outreach focuses on the right",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbe919ee4f5b17",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bbe6d8f2815809",
+      "thread_id": "19aff21f6f53392f",
+      "from": "Liliana Palacios <liliana.palacios@voxmedia.com>",
+      "to": "Jenn Leonard <jenn.leonard@giantspoon.com>",
+      "subject": "Re: ADIF x VOX: Branded Media",
+      "date": "Wed, 14 Jan 2026 16:33:15 -0500",
+      "snippet": "Hi Jenn, Hope you&#39;re also doing well! I will be sharing the wrap report on Tuesday as Vox Media will be closed on Monday 1/19 in observance of MLK Day. Apologies for not keeping the holiday in mind",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbe6d8f2815809",
+      "attachments": [
+        {
+          "filename": "Screenshot 2025-12-15 at 1.25.47 PM.png",
+          "mime_type": "image/png",
+          "size": 395891,
+          "attachment_id": "ANGjdJ80x_rKsXiLHiIzito3c6MQK26V716KjZbIvXp1uP3A36pir2HnkmJQ9yP2kEPr5NHJ4YIsYdm3LrrS3BfSD_8rX-lfQLwYbLalWqgVMVGD-LpdHqTucEUUKeLoKCE8YcbjEeodhZbWhCdmVwdb8ND0wabSPopSQbw8A5gz09X2NNx4x0gKUhWBPy56yaPb0ZnS_fSSoZIOKRKf9ih8vun5GSRuS3-rp1qPA02_UjotxE7uwTuckPQGf61uyCr_I_TqjgNCBEyzPw9p00-qPInRyShwAsJFdkMG9SN8NGBJWNy8mjjKEdOvu_QZ2satVf9_sLFv4wUWOenq3uRLd2Kr4mF9xdsGtIGsPSzYuK-bIkj1y72iG0ibG7bGb6KDy9f8qmRa4cv2r9RnVEcAF8flP5br6s66kslV4A",
+          "is_data_file": false
+        },
+        {
+          "filename": "image.png",
+          "mime_type": "image/png",
+          "size": 33409,
+          "attachment_id": "ANGjdJ-LRfBCixK6kujIyiMM-rRTVyyRJQdA6z1b_BbXky9IOhSWx-m-rQUi7_lY7FcaeTqThV37lUjJkgssRaFPm8zV20y498dAfTuU5BfOLtALiWF_s9Y4uuBKpbWKhfuprlko63J7TOf_6KhX6S9NQUjAbSwu9cPXE-_JgUYH3CPFgHoueBj-cDsxFVIl8XpoMqMRPQghuHvmRpVBH_3D_0N6Mt2nf4PqLPwkl_XyL47nGzagsDFePE3PLWSKnHHRwZ0PVtD7IGGS1Vle_qvb1b1Ea9RgiHzi0LRNIpoK51JBPd2tGuWm5x6DfGbLgoXIbgXvuC5i68SjSMQH0oKXTy-5UGX_OMVqCVTzIBy2B12WB5R2jc30ssTDEFUFHkqV0gR1A4jhSUjZBksf8XzDudqyHuo2jgHJRZ7VZQ",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bbe5c41e685a1d",
+      "thread_id": "19a31dba99d374f8",
+      "from": "Brian Hutton <brian.hutton@disqo.com>",
+      "to": "Matt Schroeder <matt.schroeder@giantspoon.com>",
+      "subject": "Re: DISQO | MIQ - De Beers Q4 Campaign Post-KOC Technical Thread",
+      "date": "Wed, 14 Jan 2026 16:13:00 -0500",
+      "snippet": "Thanks Matt - we&#39;re currently waiting for our data processing team to work through calculating results which limits our ability for a pre-read but it&#39;s a helpful option to have available. I",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbe5c41e685a1d",
+      "attachments": [
+        {
+          "filename": "image.png",
+          "mime_type": "image/png",
+          "size": 21493,
+          "attachment_id": "ANGjdJ9CKKKFcEPzG6e6MlS8mpZ-3Vuho6JkN-_gd5ujaHIMfmvKcWmssBnFimGow5uijRK0yTC1ZQMg4NDGg0WuVugsePjCB8NN2fd14vvxQGaFxgfQFSakXOWtVbLYZ7aTfH8HfWaW90LCm8SgywBkZkft-YVGkw_r8aGaMlR21yZb_sen0Na1AKLFc43zBw1XdzAfYUaH9eY8qW4EaB99hq-zIQu125_CtHuBiIUS-m7k3Qcx6blP8F6A8zLLHwUV4fj7KxajKsyLmIlkQEnbBOTYngWNA5WLONoRQh-OIzcPjopwKKsU4Bh4QVrheuWiFoaos0SGal63TJvYxnHY9GWaXFQIOlaE7Fg7vvw363sbGjCwT0xwMBnJHGveejHFFJ9cWkIxYxkMH9ogyJBUmcgfnBsNhcwv-Ep_VQ",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbe3e909a2bc14",
+      "thread_id": "19aff21f6f53392f",
+      "from": "Jenn Leonard <jenn.leonard@giantspoon.com>",
+      "to": "Liliana Palacios <liliana.palacios@voxmedia.com>",
+      "subject": "Re: ADIF x VOX: Branded Media",
+      "date": "Wed, 14 Jan 2026 15:41:55 -0500",
+      "snippet": "Hi Liliana, I hope all is well! I know you mentioned you would be sharing the wrap report on Monday. Will you also be sharing the results from the Shop Natural BLS? If not, can you confirm when we will",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbe3e909a2bc14",
+      "attachments": [
+        {
+          "filename": "Screenshot 2025-12-15 at 1.25.47 PM.png",
+          "mime_type": "image/png",
+          "size": 395891,
+          "attachment_id": "ANGjdJ_8didLxSpIaL1M7cu-nBCVxkNgMN6ig6754VSWAa_mdod-m71z3BqCtYhJgjHl_OEwZ5fL192FQgl7aBo45M-NTdCp-a4HcaZY3jflmijaajJRTJlow86GyeffagvxzMMZX3nTnAGcROF_3dmv7NN8O9fhV4dKzrDASIxdYh_4y7HO56OyxO7gVmD9aNaY582nmvBpizV9RwKsKL8udDDNT-9UTppvs35HYCoshNAndZ5RocOeMMUEcnKZY1BNUwwxPnH4xFAqUnkJuWEiAZsDdzW9aSkoTfO25CSbkaMAT_McL90Nz4Ik-BtifjHXJjegWXlO9wcjwIatVaPIk2nFuSWjgbi9s1TtnSddUTsYp6TC77fQ2cCGtIj9wfsrmXkU0xHj6CFO_4-3guwJunjI7vHf5R_4ZSr_RQ",
+          "is_data_file": false
+        },
+        {
+          "filename": "image.png",
+          "mime_type": "image/png",
+          "size": 33409,
+          "attachment_id": "ANGjdJ8yBafJjZjXX1xQYUIl72AEZ2H1yPEgxzVA-NAJfS02huYAN3IQ5laLuXkS4nyCN6E0fgxLHfibLzGbJ4clHAbHPe7pOHp3Fv0pD9seGtUMP3gh3NdfrPso__956Ily_QzxMS1Lw2pCgcgrtWYDkPDG-I-JRB5xo1hU4qaEX3HHUz2lQ5JlilSY4o_ZpHibbiZA8t4Mw8CKA1HyhmX9SLIEVNagjcLyVE0BCJFEivwzc4HHXhw6g4_5c6q5hQbbLdv465DFhoZXoGM6TBBbm4CGR8Q4OWAT0FvdHCwaqWlibCMmKAdUwrHF-7tZLCDaT_FyPR2bAY8J5SNGuy7D2rkA-4BCiBW5z_y2PJyWvC-pnxL0bnLswsUsBF2MGJVOoJMdyrJ6wq2cIdUXpFYm_qkwUHflkoP55KGMQw",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bbe28185275d4f",
+      "thread_id": "19bbce07994123a3",
+      "from": "Tess Vargas <tess.vargas@giantspoon.com>",
+      "to": "\"Gewertz, Randi (RX-HBE)\" <Randi.Gewertz@rxglobal.com>",
+      "subject": "Re: 2026: ADIF x JCK: Reporting Template Request",
+      "date": "Wed, 14 Jan 2026 14:17:24 -0600",
+      "snippet": "Thanks Randi! Excited to see this sponsorship launch! On Wed, Jan 14, 2026 at 1:39 PM Gewertz, Randi (RX-HBE) &lt;Randi.Gewertz@rxglobal.com&gt; wrote: Hi all, Here is Part 2 of 2 in today&#39;s JCK",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbe28185275d4f",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 5822,
+          "attachment_id": "ANGjdJ9ioV0J7YwxMeJE0B1-YGaWJUV5zan8fj6PkZwzESLRVY-6u8JfTBNNAkRFWEWeq5PL9LPS0ksIyi8iyssi5aUPAVdPGqQ6t6DgbirocDAC3KUcZsrB5Te8wl76-RMuA-5EMNXdPueR5qkveAYx2r6tkpAgH7L52tCBJ8Q_WJB51OaUeWNAUkadf6uDJtP9zxKGcmnuwiJNks_hrc1dsZtNuvCVra2dZ0tUtzn0xVOhC7nEjDJhbNsyySRGiqotK-V4uIxdbf-ic7f1qND4y7gsBaCNtixQBeksAaPzQWJYCBRKzXktwYzJiQ2qNrchvMddL1zfmwTymOdj7-Abugu_BCp91eVVDLpgs9OdeDRRaRDea_f3f1y7_vp3a5SfWZc-qyp3fqvOji_C",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1XSo_BEaoZyQM1Mxnr3gh94M3l02ebVlAl9MPb-AsJ_8"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbe0564187504c",
+      "thread_id": "19bbce07994123a3",
+      "from": "\"Gewertz, Randi (RX-HBE)\" <Randi.Gewertz@rxglobal.com>",
+      "to": "Tess Vargas <tess.vargas@giantspoon.com>",
+      "subject": "2026: ADIF x JCK: Reporting Template Request",
+      "date": "Wed, 14 Jan 2026 19:39:36 +0000",
+      "snippet": "Hi all, Here is Part 2 of 2 in today&#39;s JCK News Daily- Lead article for the new episode of the JCK Podcast sponsored by Desert Diamonds. Best, Randi From: Gewertz, Randi (RX-HBE) Sent: Wednesday,",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbe0564187504c",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 5822,
+          "attachment_id": "ANGjdJ_ayp9vQ23G739qulO-irggF4hBxG6TZd9v7NpnSf98Wa9sBr73aLx8cW4rBZ_DRJKBsuSExB5XNUuXi8GXkl37L0CVu-Ur73nV9r5kJmc8hNPy4wA_8r_vawNUxPhkZiyj9mDDj94tTLtVP4YjqmbvE5mnM-xN6YOqk-jRPBxSWncvTDIBKKrcNfT9CtPMR33aH7dNxAr27Rd8hUSvgmAkepR1V60CBNP2sN2SxDCVHSgc3el88_Gorcoz8nk8R3iWkswtsCyVNYzZLqpqGHWDqkrk6IDUFyYZT89DpFsjb-QUA_LGR1Zqo-dOn9d-FnuY2iJmdKsTlXLL2rGCOZ-tceRzf8y3SapQwok2ZU_bE1m9KmG1CdYZ7ya15Zza5FUayHyl1Sy3HCDD",
+          "is_data_file": false
+        },
+        {
+          "filename": "The Jewelry District: 2026 Predictions.eml",
+          "mime_type": "message/rfc822",
+          "size": 179053,
+          "attachment_id": "ANGjdJ8PM6-zUKJUw04OCVHRNfe0Z8xwFzY9WlVQyuqw8fXcrmlF3jIbvsypoZqApK9sWfgPw3nY4UEooMoW9vdGEVV67AN-tcSKCrOXI5aO9CzP3YtCS0S7CCHKECTJF1egUp9c6OCHtxmUZkD5S-2unMTMH7bQK2vQ3L7oBQqjXKRpZddkOorKKAIAohJQ7ooN49fEQhZy2Z3dT2qHPPFporCw6Eci6Jbv4r5JerSlf6GvAYE1it0bw0AI92xYipmaFG1_yu4nOgr38ogjlDJxnjTNwVznFSZCfJ72shrRh8IByYCdQuKKWxaT4EgZpZ5C46tGux_XF-57zdmhmyN94264l9FbqXfJdXRjGi3aAfFFU9JxDrtKGUaAAks",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1XSo_BEaoZyQM1Mxnr3gh94M3l02ebVlAl9MPb-AsJ_8"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbe04996e4eb51",
+      "thread_id": "19bbe04996e4eb51",
+      "from": "\"Gewertz, Randi (RX-HBE)\" <Randi.Gewertz@rxglobal.com>",
+      "to": "Tess Vargas <tess.vargas@giantspoon.com>",
+      "subject": "Recall: 2026: ADIF x JCK: Reporting Template Request",
+      "date": "Wed, 14 Jan 2026 19:38:47 +0000",
+      "snippet": "Gewertz, Randi (RX-HBE) would like to recall the message, &quot;2026: ADIF x JCK: Reporting Template Request&quot;.",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbe04996e4eb51",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bbe03e543378ff",
+      "thread_id": "19bbce07994123a3",
+      "from": "\"Gewertz, Randi (RX-HBE)\" <Randi.Gewertz@rxglobal.com>",
+      "to": "Tess Vargas <tess.vargas@giantspoon.com>",
+      "subject": "2026: ADIF x JCK: Reporting Template Request",
+      "date": "Wed, 14 Jan 2026 19:37:59 +0000",
+      "snippet": "Hi all, Here is Part 2 of 2 in today&#39;s JCK News Daily- Lead article for the new episode of the JCK Podcast sponsored by Desert Diamonds. From: Gewertz, Randi (RX-HBE) Sent: Wednesday, January 14,",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbe03e543378ff",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 5822,
+          "attachment_id": "ANGjdJ9VgvH7b5aoFzgI6HRhjuPTIUlxJUuix8cVIkmCWU4H1g3v7kWVMfXI1ClgTpvwTG_sDM7sFhU7p13NsjcO7S6m-zlII4j49NVi5k3cUGn5rbbz6aGhEkxvIx_gg3RLl0KbSEp6tNXYxVQsmN1W0aQPDJARjS9G5REFfzgWJKqZlgXeu3oek48npGU5n6naG--XhUSui7e6xxmpBVHZIizeEbZ2iJ1D9kbMCNz-ZsuqbxdoU-nyFZI9otMUTCbDWKHpQKs1dVPFoIyqN_Do7ll-yHKJiUDclrBFA-vwS-x4BLO8XrOa9ZyAAFLbx0EY_jnBWWhdrha9IQOdggknXZv8_v0AFhc0kjnouwnq33k6E8Nn325Lf7ovNPV2-9MvSZqEUIK3zu4VYef_",
+          "is_data_file": false
+        },
+        {
+          "filename": "The Jewelry District: 2026 Predictions.eml",
+          "mime_type": "message/rfc822",
+          "size": 179053,
+          "attachment_id": "ANGjdJ_uUMvkbTP2xmyv8KSZ4D6TQffMZWtyKkiSyyKxOR0epVwVq0A8reFPjzjq3RNPlnD98Y8bGXyFxv0oy8P6fhqW0QGU1nj9J-kuILcE81t3ch-EppXqsw7If4YggOPhyO-LqNWJ6uVFSPg7npTjuFB8ZnuFdQPKfmlBVjlufHuYYsZMDBalE_-vPF5lRY_f1qQaEjKw4uTnW855VtnamNXGg-FdOct41KL6YDbHMFH8XGo4rg_0ioNAIf8EcS_4RL-MDcAiXccJXPI3F-IQWH7MUpeuDBdbqkFmwtgGl_C8e69GBL-D0LkdlZm8a_MdPwOXGGDsgK3R6Ng2K9C4HyfEZ-ipgJpTdKoY6uThiN48Qsv7z--IzrCgGT4",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1XSo_BEaoZyQM1Mxnr3gh94M3l02ebVlAl9MPb-AsJ_8"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbd95428dee39f",
+      "thread_id": "19a31dba99d374f8",
+      "from": "Matt Schroeder <matt.schroeder@giantspoon.com>",
+      "to": "Brian Hutton <brian.hutton@disqo.com>",
+      "subject": "Re: DISQO | MIQ - De Beers Q4 Campaign Post-KOC Technical Thread",
+      "date": "Wed, 14 Jan 2026 09:36:55 -0800",
+      "snippet": "Thanks Brian. We are OK to receive the data piecemeal as it becomes available if that speeds anything up. The sooner we can dive in the better off we&#39;ll be for our meeting. Is that possible? We",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbd95428dee39f",
+      "attachments": [
+        {
+          "filename": "image.png",
+          "mime_type": "image/png",
+          "size": 21493,
+          "attachment_id": "ANGjdJ_ewTtK40l2lU1v7O2aFcxNEMjeISB--B6r3wfNpmZXGFBwt_Xy5Z9GW3dpKUoi8Zd3_Kckfr3-XS4p8n8ZRCwS9w_crKh3VAQNAx8DURvJIYQgbUPfZCTuh3eWozx06y03QWNb7qFTHl9FCMuXw8CvBOCjNqxTZYqF4Sp7FAlB0NRokIsdTMWAVifGM2kkZ-fqT0Xo0VMwZH693241QcKOBEOVviIueEbAlz7GKoJKW3Ty55sEoP-c8pZcnBSYCJWV1TxQ79VsngZPe5Ib_jKjTcbsHnIIH_KjbEWhcOcehmO3h7dOvLGO9vOJuoPt5pHn0wwlqxIKXY7Q3yBd6juT3-ntvvw60x5eFcjiAP2ZzlU8OGGmKcXWK88SmhhXJEWHmpWcH-gtxhs2pJQ_tzHOsbmgG5uPEe1kLQ",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        },
+        {
+          "type": "google_sheets",
+          "match": "1u_OXL-ZTHumRr3tvmXaJOxSRnxFVo2GmEUQwljhYfyw"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbd847658c8979",
+      "thread_id": "19b388f23ba20a4b",
+      "from": "Lucille Bootman <lbootman@apollo.com>",
+      "to": "Jillian Beitter <jillian.beitter@giantspoon.com>, Meghan Gallagher <mgallagher@apollo.com>",
+      "subject": "RE: [External] Re: Streamlining UTM tracking in 2026.",
+      "date": "Wed, 14 Jan 2026 17:18:48 +0000",
+      "snippet": "This works, thanks Jillian. Lucille Bootman M: +1 (646) 988-1965 www.apollo.com From: Jillian Beitter &lt;jillian.beitter@giantspoon.com&gt; Sent: Monday, January 12, 2026 6:24 PM To: Meghan Gallagher",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbd847658c8979",
+      "attachments": [],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bbd72961c86af7",
+      "thread_id": "19bbd72961c86af7",
+      "from": "Mitch Kapler <mitch.kapler@giantspoon.com>",
+      "to": "Gene Tsenter <gene.tsenter@giantspoon.com>",
+      "subject": "Canceled event: GS INT | ADIF Measurement Regroup @ Wed Jan 14, 2026 2:35pm - 3pm (EST) (Gene Tsenter)",
+      "date": "Wed, 14 Jan 2026 16:59:10 +0000",
+      "snippet": "GS INT | ADIF Measurement Regroup This event has been canceled and removed from your calendar. Join with Google Meet Meeting link meet.google.com/rbs-nzvg-obk Join by phone (US) +1 510-775-0973 PIN:",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbd72961c86af7",
+      "attachments": [
+        {
+          "filename": "invite.ics",
+          "mime_type": "text/calendar",
+          "size": 2946,
+          "attachment_id": "ANGjdJ_XLrPvDN_PCR1f8y8_BHN8UafTN5yIDG9jhdnOR1Dps6XqPg5EXeuBT7rK9yH9sYny22bcrZtCYP7ClE4g8dfgiz6My-n6yhaNtNRTX7pmI0m0rcQhJty6FGzDAJ-umch5Ff-DoknXOesEUysiuQDfR1Aa28dJfJtaIJD58KRMmlubSqJSKk1bwLkUjyIHauQSWhNYXLf3a6EcO623jSLxf6CEwbodaYV7rdTAJ2HoUUMuBv3-rTB3BOlvlpyqB-3Bq_m64R65eg1rvYngFEqNgeMzPuL6sVI9QvvJ2knHyo9s9_ddNwtlfAMUkF4bCLHgElR8A3pcxBXIM7OgtWmDD8Ho0ttFGRs0Fk0SRTP0MwigzQbhJPoJFu0",
+          "is_data_file": false
+        },
+        {
+          "filename": "invite.ics",
+          "mime_type": "application/ics",
+          "size": 2946,
+          "attachment_id": "ANGjdJ8DMwxnvg5Dzl06qXqxn77qCU03-yFsNFrl8c0jsmPGskTUnYt-uKodWgU4sKqe-wz4swV-btyDk02NACkEEFRxVY4jxCSx6XD0ipzmnjvC1bqMR84xM1Zy4mNa8WTva8Bfa5lKLV1Gmcwpsq0hWnzqiiEJJxxu29Eg_-LhQbOHbWkry44J5IgiqGpC9nanfyUql-7iIN5JDP0AHBU3n5x07t7TezjeXucpUMG9MA5221mGZuYI0X8zkC_hH3lNp3j0sdwRfO5aq9fjJuZ_IhY_YnLjyV6gx_kMLKh3gm2pCALzBdOBbOaE-rannaSXceozsO_C78edx0VoK8cdCOm352f7mvklMYXUypnu80yVm1apWuKRhMnybpUQLESWHAwn6qyP-t5QambK",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [],
+      "has_data": false
+    },
+    {
+      "id": "19bbd18d3da9f2bc",
+      "thread_id": "19a12f17f9e279a2",
+      "from": "Jenn Leonard <jenn.leonard@giantspoon.com>",
+      "to": "Aubrey Gooch <Aubrey.Gooch@ncm.com>",
+      "subject": "Re: RFP - GS x NCM",
+      "date": "Wed, 14 Jan 2026 10:21:02 -0500",
+      "snippet": "Great, thank you! On Wed, Jan 14, 2026 at 10:08 AM Aubrey Gooch &lt;Aubrey.Gooch@ncm.com&gt; wrote: Hey Jenn, Yes we will, we don&#39;t have it just yet but I&#39;ll send it as soon as I can! Best,",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbd18d3da9f2bc",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 12464,
+          "attachment_id": "ANGjdJ-wWDJNEtYXaLCJmHS-JfPLF2DCfeMYPL10kG9etaF0fwXMbTv3i0OY8snFwhgmZ67lNrbZ6atmtTzV-dCi6oe_QUePLAxcWQ2exKKQrewTVxrrfVx0HLJf9Snqe_qwEh_wgMujR9QvDHrqmzbu5zJS2X_0gSHEgGUigO59K5hsPWP57oTJtVGJ8eK91-UxaeOxaBJ2ej2mPRCltwSqjVKBq0_Tl9BQQVzStuMLarCQCp6hRqJ7Z0_p1vJVDRAyC6rIXMp_Nb4u8qM4_iQQ5qwRw-s2tdGnGU4yfKXZ-B6CueiEQvyOxRKC69Hwu2bX6MIq9lMYslb_GOS4mBDBpsyzfsAQHva5qMq8DcDRNb5aP7Sg8ZIDNHvyrYn7NsuHW5qnChH4Zy5xICH4B7Nq-Y6Z_uSBcVtUI5z0cA",
+          "is_data_file": false
+        },
+        {
+          "filename": "image002.png",
+          "mime_type": "image/png",
+          "size": 13365,
+          "attachment_id": "ANGjdJ9a3Rv1IL5U0KUuzV99146a4TXDXLvgrfIOxezKkgTo9Ex_W0hpS-dW8pbe-5ACsKjo9PltwyVqqTzXasSVPgZkTgPaBSM4JWxw_SF4yF8i7usylaQ3zMZ6BQZBCZspkWDo8RGXkDUKkF9i5hdFraNPP3aVepDh5EjA_6RiJfwR50FBRGinEUPJgrc8AtFh3PHxJBJ66-SIiVxrkqe2NcbgD8RvYeW-4YM_axw1yd0UGNNkSlK_kZvQmtqA2vqDcM6O2cNOquLntnacn5etvEau0SK04kQA5t0fsiXZNAvdcvZ3WMO4In36j2t3qBumOzP9kAFK33VbuY2ilGwyQ-v57_it3Y2hGid477CrsgDAzarhSz6ObtxBNyOqAkzDxOVLAPgKfjuO9QuJjUhvqj6Pg8M7RHSczl6F0Q",
+          "is_data_file": false
+        },
+        {
+          "filename": "image003.png",
+          "mime_type": "image/png",
+          "size": 241567,
+          "attachment_id": "ANGjdJ8fgsxet2gYnGumB9sQnyaedVTVtGTh_3O13tbWd19-YMOsofeWlwqH0dUPwS4meZzJXCiDCz4xtLqUEmAnjzSqBjnnvAtUCCceFEQIYFRQgwsNOPDbI2RkBG9VZXGBoNVIEM4rTz-oNPLyfW0HShApYOrR4Y1DXJqN83RElICkTNUWkedjIB2XWvdlnsJ4kqBAQG5_LKzDzqd7E5gLFzSEQNQE0m-qjBADqr4euhq0opsH0r84Fi8rTbERacJApdFHvrwyyRijbXdd2VX9-k257Unfijm7nk1mV_2Ga5OEYnSZJp57L7QqFbFtM4Y4ael560K32ldExbFWpDUbnFl3VJ9pTmA9AHSky-3KanMNo5VRy0Bl56eFXjZ_XEzXMyJqIDNfx9y2FOVa4_FhHWZsPdbJym2Vkf9RSA",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1hk9bE3zkswGSSI__76NdR4YRvwuDZXX-Ex41f4iTjnU"
+        },
+        {
+          "type": "box",
+          "match": "box.com/s/a6tc0klrjksgbz14w5exs8good0pnnsm"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbd0d88e3514d6",
+      "thread_id": "19a12f17f9e279a2",
+      "from": "Aubrey Gooch <Aubrey.Gooch@ncm.com>",
+      "to": "Jenn Leonard <jenn.leonard@giantspoon.com>",
+      "subject": "RE: RFP - GS x NCM",
+      "date": "Wed, 14 Jan 2026 15:08:54 +0000",
+      "snippet": "Hey Jenn, Yes we will, we don&#39;t have it just yet but I&#39;ll send it as soon as I can! Best, Aubrey Aubrey Gooch Senior Account Director 485 Lexington Ave New York, NY 10017 C 202-445-9531 ncm.com",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbd0d88e3514d6",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 12464,
+          "attachment_id": "ANGjdJ-wgTkdFlMP09AxMozKl1MuyA3-eM8C7ToUsph2B1EtM5fIbgRfOOGhSk0I-POTc_nrfT-CSBijh2eI6jb0C54F5nGFYBoQwVHSigXyLLCAQDUFsS45TdpAD3FG6PODyk9WSkXdy-QIy7V9jv2Wp_TRTzedR9DVX08sGLPRSAwnIOrpGbN9R_dYDs-GFuo0n02yurVAw7TUycd7SO1OWg_3sV6pPzCVWzPfsn8NxxQwfr4xMN8nwe-DHX2rEIYfByf8qqUWrNr6QhPKDIpBcErXsiEUm1rgJLMWS4zjXPivVlM0q8ZYI-X6RRZjPqg6qd9xkW6auAYuL1zPuZii2e7z4V7Xo0GSsXHa3YIAJKc0BcCL1dMSyDEo8DD9IyGqbYB5eT_HzVZgAaHlNfDn4Z_NkkxqcQkkZWeNcQ",
+          "is_data_file": false
+        },
+        {
+          "filename": "image002.png",
+          "mime_type": "image/png",
+          "size": 13365,
+          "attachment_id": "ANGjdJ9iNvnRVmTlQem3dVW9i5fvqF2FS3WIKbC2wykOdRcDdgR7os6VHTM_zqrfFHLc8cbVCLXEwR_ZiUw5uUmwZPUaMkwM7bLK32LmS4Kje9Ad2q8UTdRrNPG7zQfQJZamh1JlckTaSEx6Q1GCadbtjGte3rYhnmDJsRmoKxbIzxVt1uNBVNTDh-vp8DjG2C3JJmyaYktumhMyiJ84lhz_PacOg_KEJrSNpJG_5mk3htmjV_X1QX0KhBTpUbTVJSZ3SF2ve19oLxDa_EouUOEVsVmmxpqy_fU2x8LfqdSxu5GrzMQT_M91eRIvU9cMMvZ1sAUnYl_RtFCpbusHDi8obM0OY588g97laKo0Ht32sXAXW87QRUNchpUrhB4aPsFQ2lbmPW8L4gqnYiw18y_G7qzqqZv5a_9ORS13fQ",
+          "is_data_file": false
+        },
+        {
+          "filename": "image003.png",
+          "mime_type": "image/png",
+          "size": 241567,
+          "attachment_id": "ANGjdJ_8Y06R2bh9TDPo3Mv_v4n8DS59PzkjCII-C34_eOkCptEqHEcxubrzodFcHhTcJ9IUyS2l-v_1xG_SJRp1u4qFs1gsWIroEAxe2sL4cyz-6T-twPYDlr6Ltdftkxj-9l-b-ZkYoas_mRk_v7G-W13QMBRZGlgH0S31I3Nbztv0eIOG38lVuyS4PNfyzpauVe9ienXMG5Yh3HpKEoIjt5Gv44Hi7fgZ9kmoiQl-oCV7oDI7sGG3IxCRwjha3jotHoLtpKkuXOif79YjziLkZGmGjUjAHQ1X98E-rcGq0PzjbYX9ByCpzg-8Eei-ZTp7kUtm4_wzKKWhz0dMH2vna33afdaHbgcTzlcfVq0DSYDIoz8ILGYW7o2EYSKXZwd4vTxD4L62dIMypwBBgSqtGoQj3wbWEpII-u0ylw",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1hk9bE3zkswGSSI__76NdR4YRvwuDZXX-Ex41f4iTjnU"
+        },
+        {
+          "type": "box",
+          "match": "box.com/s/a6tc0klrjksgbz14w5exs8good0pnnsm"
+        }
+      ],
+      "has_data": true
+    },
+    {
+      "id": "19bbce07994123a3",
+      "thread_id": "19bbce07994123a3",
+      "from": "\"Gewertz, Randi (RX-HBE)\" <Randi.Gewertz@rxglobal.com>",
+      "to": "Tess Vargas <tess.vargas@giantspoon.com>",
+      "subject": "2026: ADIF x JCK: Reporting Template Request",
+      "date": "Wed, 14 Jan 2026 14:19:41 +0000",
+      "snippet": "Morning all, Here is the first JCK Podcast of the year sponsored by Desert Diamonds. This is 1 of 2 emails sent out today. This eblast is sent first today- see attached- and the 2 nd will occur as the",
+      "permalink": "https://mail.google.com/mail/u/0/#inbox/19bbce07994123a3",
+      "attachments": [
+        {
+          "filename": "image001.png",
+          "mime_type": "image/png",
+          "size": 5822,
+          "attachment_id": "ANGjdJ8yNq2py2I0WhGuEvuT_Ls4Cj_CB831quyBQFKhzliUJJ1S4g7lVirXjp0ycgKHRVEbNGOU4bpmHKRCRh5_1FZvuyGwIpEEDWUaVImmDlK9iIugb_7bTcu39is2vbVxUTm5DWjd2_F1XSVM1tVVwMd_jNY-aiDijKZsM4f5HmWN2hcDofHzfbUHSSm-FGf_BThlJzGqN5HgDoEfqZJWUmMANRYy27xSo3FcvT90ZkJ2cxeaKfro5wkTRwC8MofM-qMd9HVfHRkMZVUo-dXR0sz5UPeF4H95UWwAQlQrqUuedUzcTGj8BOGx5OOP26k6QEym0qYobUMhTjUmZK3ieWLt9V99k35YUXy85u8KAlt61mvGLgrZOC6TxguDUSpHVeiEX_xe5qlVQf-M",
+          "is_data_file": false
+        },
+        {
+          "filename": "New Episode: Episode 163: 2026 Forecasting - Subscribe by Email.eml",
+          "mime_type": "message/rfc822",
+          "size": 28185,
+          "attachment_id": "ANGjdJ94gQgARldeq0h5ftdx1NH_TpwvErrwZSNeVQawy9bKJJmyfK3USdVbo-9uX-EGFWVWTRFxvWnzNwlpIgiZNClgPomt6W-jT7yc51rWfFLD5JF5UjqTX0x-ahOBI0IB1AOmFelqax74ceWAHnY8UZ1FWN68QvsOi1CGmkeLsVyu3figkUEdjJySj_omDEVWju1xHjVEu4Lq5GeDQtF2nAS7vX5nHs2jKotF4Eo7aoaF-SVkTUm1IfARn89qrbfCuOqN3k2REKsWp1yJVv57S3wB8Jjowfw6yXM2xV1f_YbVnRaMJI4Tv_LDwG1lWN2TM7acBVrSVc-f14Unvoc_fCxB2Wfof9YUW91galhALeziLDaj2lSp6Yj_WEE",
+          "is_data_file": false
+        }
+      ],
+      "data_attachments": [],
+      "data_links": [
+        {
+          "type": "google_sheets",
+          "match": "1XSo_BEaoZyQM1Mxnr3gh94M3l02ebVlAl9MPb-AsJ_8"
+        }
+      ],
+      "has_data": true
+    }
+  ]
+}

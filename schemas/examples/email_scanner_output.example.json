@@ -1,0 +1,345 @@
+{
+  "scan_results": {
+    "run_id": "es-20260121-scan-001",
+    "started_at": "2026-01-21T08:00:00Z",
+    "completed_at": "2026-01-21T08:02:15Z",
+    "emails_scanned": 47,
+    "emails_classified_as_data": 5,
+    "assets_extracted": 7,
+    "auto_processed": 3,
+    "queued_for_review": 3,
+    "errors": 1
+  },
+  "auto_process_payloads": [
+    {
+      "payload_id": "ap-20260121-001",
+      "source_email": {
+        "message_id": "<abc123@mail.partnera.com>",
+        "from": "reports@partnera.com",
+        "subject": "PartnerA Weekly Performance Report - Week of Jan 13",
+        "received_date": "2026-01-20T09:15:00Z"
+      },
+      "partner_name": "PartnerA",
+      "pattern_match": {
+        "pattern_id": "PartnerA",
+        "confidence": 0.94,
+        "matched_factors": [
+          "sender_match",
+          "subject_pattern_match",
+          "format_match",
+          "column_match_6_of_6"
+        ]
+      },
+      "raw_source": {
+        "source_system": "email",
+        "source_location": "email://abc123@mail.partnera.com/partnera_weekly_2026-01-13.xlsx",
+        "partner_name": "PartnerA",
+        "received_at": "2026-01-20T09:15:00Z",
+        "payload": {
+          "type": "file_reference",
+          "path": "/extracted/es-20260121-scan-001/partnera_weekly_2026-01-13.xlsx",
+          "encoding": "binary",
+          "file_size_bytes": 45678
+        },
+        "email_metadata": {
+          "message_id": "<abc123@mail.partnera.com>",
+          "from": "reports@partnera.com",
+          "subject": "PartnerA Weekly Performance Report - Week of Jan 13",
+          "received_date": "2026-01-20T09:15:00Z"
+        },
+        "expected_granularity": "daily",
+        "expected_metrics": ["impressions", "clicks", "spend"]
+      },
+      "routing_timestamp": "2026-01-21T08:01:23Z"
+    },
+    {
+      "payload_id": "ap-20260121-002",
+      "source_email": {
+        "message_id": "<def456@partnerb.io>",
+        "from": "data@partnerb.io",
+        "subject": "Daily Export - Jan 20",
+        "received_date": "2026-01-20T23:00:00Z"
+      },
+      "partner_name": "PartnerB",
+      "pattern_match": {
+        "pattern_id": "PartnerB",
+        "confidence": 0.88,
+        "matched_factors": [
+          "sender_match",
+          "subject_pattern_match",
+          "format_match",
+          "column_match_5_of_5"
+        ]
+      },
+      "raw_source": {
+        "source_system": "email",
+        "source_location": "email://def456@partnerb.io/partnerb_daily_20260120.csv",
+        "partner_name": "PartnerB",
+        "received_at": "2026-01-20T23:00:00Z",
+        "payload": {
+          "type": "file_reference",
+          "path": "/extracted/es-20260121-scan-001/partnerb_daily_20260120.csv",
+          "encoding": "utf-8",
+          "file_size_bytes": 12345
+        },
+        "email_metadata": {
+          "message_id": "<def456@partnerb.io>",
+          "from": "data@partnerb.io",
+          "subject": "Daily Export - Jan 20",
+          "received_date": "2026-01-20T23:00:00Z"
+        },
+        "column_aliases_to_apply": {
+          "imps": "impressions",
+          "cost": "spend"
+        }
+      },
+      "routing_timestamp": "2026-01-21T08:01:45Z"
+    },
+    {
+      "payload_id": "ap-20260121-003",
+      "source_email": {
+        "message_id": "<ghi789@partnera.com>",
+        "from": "reports@partnera.com",
+        "subject": "PartnerA Daily Pacing Update",
+        "received_date": "2026-01-21T07:00:00Z"
+      },
+      "partner_name": "PartnerA",
+      "pattern_match": {
+        "pattern_id": "PartnerA",
+        "confidence": 0.82,
+        "matched_factors": [
+          "sender_match",
+          "format_match",
+          "column_match_5_of_6"
+        ],
+        "notes": "Subject didn't match patterns but sender and content did"
+      },
+      "raw_source": {
+        "source_system": "email",
+        "source_location": "email://ghi789@partnera.com/pacing_20260121.xlsx",
+        "partner_name": "PartnerA",
+        "received_at": "2026-01-21T07:00:00Z",
+        "payload": {
+          "type": "file_reference",
+          "path": "/extracted/es-20260121-scan-001/pacing_20260121.xlsx",
+          "encoding": "binary",
+          "file_size_bytes": 23456
+        },
+        "email_metadata": {
+          "message_id": "<ghi789@partnera.com>",
+          "from": "reports@partnera.com",
+          "subject": "PartnerA Daily Pacing Update",
+          "received_date": "2026-01-21T07:00:00Z"
+        }
+      },
+      "routing_timestamp": "2026-01-21T08:02:01Z"
+    }
+  ],
+  "review_queue": [
+    {
+      "review_id": "es-rev-20260121-001",
+      "created_at": "2026-01-21T08:01:30Z",
+      "priority": "medium",
+      "review_reason": "Unknown sender with data-like content",
+      "email_summary": {
+        "message_id": "<xyz999@newvendor.com>",
+        "from": "analytics@newvendor.com",
+        "subject": "January Campaign Performance",
+        "received_date": "2026-01-20T14:30:00Z",
+        "body_preview": "Hi team, attached is the performance data for the January campaigns. Let me know if you need any additional breakdowns..."
+      },
+      "classification_score": 0.72,
+      "classification_factors": [
+        "subject_contains_performance",
+        "body_contains_data_delivery_phrase",
+        "has_data_attachment",
+        "unknown_sender_penalty"
+      ],
+      "extracted_assets": [
+        {
+          "type": "attachment",
+          "filename": "jan_campaign_perf.xlsx",
+          "file_size_bytes": 34567,
+          "row_count": 245,
+          "columns": ["Date", "Campaign", "Impressions", "Clicks", "Conversions", "Spend"],
+          "preview_rows": [
+            {"Date": "2026-01-01", "Campaign": "Brand Awareness Q1", "Impressions": 150000, "Clicks": 2500, "Conversions": 125, "Spend": 3500.00}
+          ]
+        }
+      ],
+      "suggested_partner": null,
+      "suggested_actions": [
+        {
+          "action": "add_as_new_partner",
+          "label": "Register as new partner",
+          "description": "Create newvendor.com as a new partner and set up patterns"
+        },
+        {
+          "action": "process_once",
+          "label": "Process this time only",
+          "description": "Send to Data Harmonization without creating a pattern"
+        },
+        {
+          "action": "ignore",
+          "label": "Not relevant",
+          "description": "Archive this email, don't process"
+        }
+      ],
+      "expires_at": "2026-01-28T08:01:30Z"
+    },
+    {
+      "review_id": "es-rev-20260121-002",
+      "created_at": "2026-01-21T08:01:45Z",
+      "priority": "low",
+      "review_reason": "Google Sheets link requires access grant",
+      "email_summary": {
+        "message_id": "<sheets123@partnerc.com>",
+        "from": "data@partnerc.com",
+        "subject": "PartnerC Weekly Data - Shared Sheet",
+        "received_date": "2026-01-20T16:00:00Z",
+        "body_preview": "Hi, here's this week's data in our shared sheet: https://docs.google.com/spreadsheets/d/1XYZ789..."
+      },
+      "classification_score": 0.85,
+      "classification_factors": [
+        "known_partner_sender",
+        "subject_contains_weekly_data",
+        "google_sheets_link_detected"
+      ],
+      "extracted_assets": [
+        {
+          "type": "link",
+          "link_type": "google_sheets",
+          "url": "https://docs.google.com/spreadsheets/d/1XYZ789/edit",
+          "sheet_id": "1XYZ789",
+          "access_status": "requires_permission",
+          "error": "403 - User does not have access"
+        }
+      ],
+      "suggested_partner": "PartnerC",
+      "suggested_actions": [
+        {
+          "action": "request_access",
+          "label": "Request sheet access",
+          "description": "Send access request to sheet owner"
+        },
+        {
+          "action": "defer",
+          "label": "Review later",
+          "description": "Wait for access to be granted"
+        },
+        {
+          "action": "ignore",
+          "label": "Skip this delivery",
+          "description": "Don't process this particular sheet"
+        }
+      ],
+      "expires_at": "2026-01-28T08:01:45Z"
+    },
+    {
+      "review_id": "es-rev-20260121-003",
+      "created_at": "2026-01-21T08:02:00Z",
+      "priority": "high",
+      "review_reason": "Inline table detected - verify data extraction",
+      "email_summary": {
+        "message_id": "<inline456@partnera.com>",
+        "from": "account-manager@partnera.com",
+        "subject": "Quick update on yesterday's numbers",
+        "received_date": "2026-01-21T06:30:00Z",
+        "body_preview": "Hey, here's a quick summary of yesterday:\n\n| Campaign | Impressions | Clicks |\n|----------|-------------|--------|\n| Brand Q1 | 125,000 | 2,100 |..."
+      },
+      "classification_score": 0.65,
+      "classification_factors": [
+        "known_partner_sender",
+        "inline_table_detected",
+        "informal_subject_penalty"
+      ],
+      "extracted_assets": [
+        {
+          "type": "inline_table",
+          "format": "markdown_table",
+          "row_count": 4,
+          "columns": ["Campaign", "Impressions", "Clicks"],
+          "extraction_confidence": 0.75,
+          "preview_rows": [
+            {"Campaign": "Brand Q1", "Impressions": "125,000", "Clicks": "2,100"},
+            {"Campaign": "Performance Q1", "Impressions": "89,000", "Clicks": "3,400"}
+          ],
+          "notes": "Partial data - may be summary only, not full report"
+        }
+      ],
+      "suggested_partner": "PartnerA",
+      "suggested_actions": [
+        {
+          "action": "approve_and_process",
+          "label": "Process inline data",
+          "description": "Extract table and send to Data Harmonization"
+        },
+        {
+          "action": "ignore",
+          "label": "Skip - summary only",
+          "description": "This appears to be a summary, wait for full report"
+        }
+      ],
+      "expires_at": "2026-01-28T08:02:00Z"
+    }
+  ],
+  "errors": [
+    {
+      "error_id": "es-err-20260121-001",
+      "email_id": "<corrupt789@partner.com>",
+      "error_type": "extraction",
+      "error_message": "Failed to extract attachment: File appears to be corrupted or password-protected",
+      "details": {
+        "filename": "protected_report.xlsx",
+        "file_size_bytes": 56789,
+        "attempted_methods": ["openpyxl", "xlrd"],
+        "last_error": "BadZipFile: File is not a zip file"
+      },
+      "recoverable": false,
+      "timestamp": "2026-01-21T08:01:55Z",
+      "suggested_action": "Contact sender for uncorrupted file or password"
+    }
+  ],
+  "run_log": {
+    "run_id": "es-20260121-scan-001",
+    "schema_version": "1.0.0",
+    "input_provenance": {
+      "scan_config": "gmail/INBOX+Partner Data/since:2026-01-20",
+      "pattern_registry_version": "2026-01-15",
+      "patterns_loaded": 3
+    },
+    "confidence": 0.87,
+    "warnings": [
+      {
+        "code": "ES-009",
+        "message": "New potential partner detected: newvendor.com",
+        "email_id": "<xyz999@newvendor.com>"
+      },
+      {
+        "code": "ES-010",
+        "message": "Pattern match below threshold for PartnerC delivery",
+        "email_id": "<sheets123@partnerc.com>",
+        "confidence": 0.45
+      }
+    ],
+    "errors": [
+      {
+        "code": "ES-003",
+        "message": "Attachment extraction failed",
+        "email_id": "<corrupt789@partner.com>"
+      }
+    ],
+    "stats": {
+      "emails_by_classification": {
+        "DATA_EMAIL_HIGH_CONFIDENCE": 3,
+        "DATA_EMAIL_MEDIUM_CONFIDENCE": 1,
+        "UNCERTAIN_REVIEW": 1,
+        "NOT_DATA": 42
+      },
+      "processing_time_seconds": 135,
+      "attachments_extracted": 5,
+      "links_detected": 2,
+      "inline_tables_detected": 1
+    }
+  }
+}

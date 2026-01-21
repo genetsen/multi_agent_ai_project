@@ -1,0 +1,46 @@
+{
+  "scan_config": {
+    "email_source": "gmail",
+    "credentials_ref": "secrets/gmail_oauth_token",
+    "folders": ["INBOX", "Partner Data"],
+    "since": "2026-01-20T00:00:00Z",
+    "message_ids": null
+  },
+  "pattern_registry": {
+    "patterns": [
+      {
+        "partner_name": "PartnerA",
+        "sender_patterns": ["*@partnera.com", "reports@partnera-analytics.com"],
+        "subject_patterns": ["PartnerA Weekly", "PartnerA Performance"],
+        "expected_format": "xlsx",
+        "expected_columns": ["Date", "Campaign Name", "Placement", "Impressions", "Clicks", "Spend"],
+        "auto_process": true,
+        "confidence_threshold": 0.8
+      },
+      {
+        "partner_name": "PartnerB",
+        "sender_patterns": ["*@partnerb.io"],
+        "subject_patterns": ["Daily Export", "PartnerB Data"],
+        "expected_format": "csv",
+        "expected_columns": ["date", "campaign_name", "imps", "clicks", "cost"],
+        "column_aliases": {
+          "imps": "impressions",
+          "cost": "spend"
+        },
+        "auto_process": true,
+        "confidence_threshold": 0.85
+      },
+      {
+        "partner_name": "PartnerC",
+        "sender_patterns": ["*@partnerc.com"],
+        "delivery_method": "google_sheets_link",
+        "auto_process": false,
+        "notes": "Requires manual sheet access grant"
+      }
+    ]
+  },
+  "blocklist": {
+    "senders": ["noreply@*", "mailer-daemon@*"],
+    "domains": ["spam.com", "marketing-blast.com"]
+  }
+}

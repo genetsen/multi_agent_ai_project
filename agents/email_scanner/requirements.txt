@@ -1,0 +1,13 @@
+# Gmail API dependencies
+google-api-python-client>=2.0.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=1.0.0
+
+# For reading Excel files (attachment extraction)
+openpyxl>=3.0.0
+
+# Date parsing
+python-dateutil>=2.8.0
+
+# Environment variables
+python-dotenv>=1.0.0

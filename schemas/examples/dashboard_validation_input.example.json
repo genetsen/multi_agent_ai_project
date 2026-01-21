@@ -1,0 +1,12 @@
+{
+  "dashboard_definitions": [
+    {
+      "dashboard_name": "Client Pacing Dashboard",
+      "tool": "Looker Studio",
+      "queries": ["ref:extract_1"],
+      "expected_metrics": ["impressions", "spend"],
+      "filters": {"date_range": "last_30_days"}
+    }
+  ],
+  "qa_passed_tables": ["bq://project.dataset.qa_passed_fact"]
+}

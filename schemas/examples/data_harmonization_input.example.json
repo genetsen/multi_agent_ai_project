@@ -1,0 +1,55 @@
+{
+  "raw_sources": [
+    {
+      "source_system": "google_sheets",
+      "source_location": "https://docs.google.com/spreadsheets/d/1ABC123/edit",
+      "partner_name": "PartnerA",
+      "received_at": "2026-01-20T13:05:00Z",
+      "payload": {
+        "type": "sheet_reference",
+        "sheet_id": "1ABC123",
+        "tab_name": "Weekly Report",
+        "header_row": 1
+      },
+      "expected_granularity": "daily",
+      "expected_metrics": ["impressions", "clicks", "spend"]
+    },
+    {
+      "source_system": "csv",
+      "source_location": "s3://partner-data-drops/PartnerB/2026-01-20/performance.csv",
+      "partner_name": "PartnerB",
+      "received_at": "2026-01-20T09:00:00Z",
+      "payload": {
+        "type": "file_reference",
+        "path": "s3://partner-data-drops/PartnerB/2026-01-20/performance.csv",
+        "encoding": "utf-8",
+        "delimiter": ","
+      },
+      "expected_granularity": "daily",
+      "expected_metrics": ["impressions", "clicks", "conversions", "spend"]
+    },
+    {
+      "source_system": "api",
+      "source_location": "https://api.partnerc.com/v2/reports",
+      "partner_name": "PartnerC",
+      "received_at": "2026-01-20T15:30:00Z",
+      "payload": {
+        "type": "api_response",
+        "endpoint": "/v2/reports",
+        "params": {
+          "start_date": "2026-01-13",
+          "end_date": "2026-01-19",
+          "metrics": "impressions,clicks,spend",
+          "dimensions": "campaign,placement,date"
+        }
+      },
+      "expected_granularity": "daily"
+    }
+  ],
+  "run_config": {
+    "run_id": "dh-20260120-manual-001",
+    "dry_run": false,
+    "skip_validation_rules": [],
+    "force_review": false
+  }
+}

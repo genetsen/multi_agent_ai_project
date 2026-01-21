@@ -1,0 +1,11 @@
+{
+  "messages": [
+    {
+      "source": "slack",
+      "timestamp": "2026-01-21T14:00:00Z",
+      "author": "Alice",
+      "text": "We need PartnerA naming mapped to internal packages by Friday.",
+      "thread_or_meeting_id": "slack:channel:thread123"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "classified_table_ref": "bq://project.dataset.classified_fact",
+  "media_plan_metadata_ref": "bq://project.dataset.media_plan_metadata"
+}
