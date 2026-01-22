@@ -44,3 +44,6 @@
 | Quality Assurance | Contract defined | Await classification implementation |
 | Dashboard Validation | Contract defined | Await QA implementation |
 | Project Tracker | Contract defined | Can be implemented in parallel |
+
+## Maintenance / Ops
+- [ ] Refresh `schemas/master_data.json` (clients/campaigns/partners/packages/project types) from `gs://gs_data_model/prisma/prisma_master_filtered.csv` roughly monthly (scheduled job or CI).

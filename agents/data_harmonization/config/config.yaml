@@ -1,0 +1,195 @@
+# Data Harmonization Agent Configuration
+
+# Canonical Schema Definition
+canonical_schema:
+  required_fields:
+    - name: date
+      type: date
+      format: "YYYY-MM-DD"
+    - name: partner_name
+      type: string
+    - name: package_partner_name
+      type: string
+    - name: metric_name
+      type: string
+    - name: metric_value
+      type: decimal
+    - name: source_system
+      type: string
+    - name: source_location
+      type: string
+    - name: source_record_id
+      type: string
+    - name: ingested_at
+      type: timestamp
+
+  optional_fields:
+    - name: placement_partner_name
+      type: string
+    - name: currency
+      type: string
+
+# Source Handling
+source_handling:
+  max_file_size_mb: 500
+  supported_encodings:
+    - utf-8
+    - latin-1
+    - cp1252
+  date_formats_to_try:
+    - "%Y-%m-%d"           # 2025-12-01
+    - "%m/%d/%Y"           # 12/01/2025
+    - "%d-%m-%Y"           # 01-12-2025
+    - "%Y/%m/%d"           # 2025/12/01
+    - "%Y%m%d"             # 20251201
+    - "%Y.%m"              # 2025.12 (will use day 01)
+
+  header_detection:
+    max_rows_to_scan: 20
+    keywords: ["date", "campaign", "impressions", "clicks", "spend", "metric"]
+
+  # Google Sheets standard format detection
+  google_sheets:
+    detect_standard_format: true
+    standard_format:
+      header_row: 61  # Headers are always on row 61 (1-indexed)
+      expected_headers:
+        - "Client"
+        - "Channel"
+        - "Site"
+        - "Package"
+        - "Campaign"
+        - "package_id"
+      min_headers_match: 4  # Need at least 4/6 headers to match
+
+# Schema Mapping
+mapping:
+  fuzzy_match_threshold: 2  # Max Levenshtein distance
+  min_confidence_for_auto_map: 0.6
+  min_confidence_for_auto_process: 0.7
+  require_review_for_new_partners: true
+
+  # Semantic type keywords for classification
+  semantic_patterns:
+    date_field:
+      keywords: ["date", "day", "time", "period", "flight"]
+      confidence_boost: 0.3
+
+    partner_field:
+      keywords: ["partner", "publisher", "vendor", "supplier", "network"]
+      confidence_boost: 0.4
+
+    campaign_field:
+      keywords: ["campaign", "flight", "insertion", "order"]
+      confidence_boost: 0.3
+
+    placement_field:
+      keywords: ["placement", "creative", "ad", "line", "item", "unit"]
+      confidence_boost: 0.3
+
+    currency_metric:
+      keywords: ["spend", "cost", "revenue", "cpm", "cpc", "price"]
+      confidence_boost: 0.3
+
+    identifier_candidate:
+      high_cardinality_threshold: 0.9
+      confidence_boost: 0.1
+
+# Quality Validation Rules
+quality_rules:
+  - rule_id: DH-001
+    name: "Date in valid range"
+    severity: warn
+    description: "Date not in future and not >2 years old"
+    enabled: true
+
+  - rule_id: DH-002
+    name: "Metric values non-negative"
+    severity: warn
+    description: "Metric values should be >= 0"
+    enabled: true
+
+  - rule_id: DH-003
+    name: "Spend currency specified"
+    severity: warn
+    description: "Spend metrics must have currency"
+    enabled: true
+
+  - rule_id: DH-004
+    name: "No duplicate rows"
+    severity: fail
+    description: "No duplicates on date+package+placement+metric"
+    enabled: true
+
+  - rule_id: DH-005
+    name: "Partner in known list"
+    severity: warn
+    description: "Partner name matches known partners"
+    enabled: true
+
+  - rule_id: DH-006
+    name: "Required fields not null"
+    severity: fail
+    description: "All required fields must be populated"
+    enabled: true
+
+  - rule_id: DH-007
+    name: "Date granularity matches"
+    severity: warn
+    description: "Date granularity matches expected"
+    enabled: true
+
+  - rule_id: DH-008
+    name: "Metrics in vocabulary"
+    severity: warn
+    description: "Metric names match known vocabulary"
+    enabled: true
+
+# Quality Thresholds
+quality_thresholds:
+  max_error_rate_before_fail: 0.05      # 5% errors = reject
+  max_warning_rate_before_review: 0.20  # 20% warnings = flag for review
+
+# Known Vocabularies (will be supplemented by master_data.json)
+known_metrics:
+  - impressions
+  - clicks
+  - spend
+  - views
+  - conversions
+  - completions
+  - engagements
+  - reach
+  - frequency
+
+# Master Data Location
+master_data_path: "../../../schemas/master_data.json"
+
+# Output Settings
+output:
+  save_intermediate_results: true
+  save_sample_rows: 3
+  warehouse_location: "warehouse://harmonized.fact_partner_metrics"
+  logs_location: "s3://harmonization-logs"
+
+# Review Settings
+review:
+  auto_approve_confidence_threshold: 0.7
+  require_review_confidence_threshold: 0.6
+  batch_review_enabled: true
+
+  triggers:
+    - trigger: low_confidence_overall
+      threshold: 0.6
+    - trigger: low_confidence_mapping
+      threshold: 0.7
+    - trigger: new_partner
+      enabled: true
+    - trigger: schema_change
+      enabled: true
+    - trigger: high_error_rate
+      threshold: 0.05
+    - trigger: metric_anomaly
+      deviation_threshold: 0.5
+    - trigger: first_run
+      enabled: true
